@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[rEyzczUui8qQTaNmn2pxA]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+  <id>2389207</id>
+  <name>Eliza</name>
+  <user_name>automne</user_name>
+  <link><![CDATA[https://www.goodreads.com/user/show/2389207-eliza]]></link>
+  <image_url><![CDATA[https://images.gr-assets.com/users/1469574732p3/2389207.jpg]]></image_url>
+  <small_image_url><![CDATA[https://images.gr-assets.com/users/1469574732p2/2389207.jpg]]></small_image_url>
+    <private>true</private>
+</user>
+
+</GoodreadsResponse>

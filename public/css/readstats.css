@@ -1,0 +1,381 @@
+/* 
+	goodreads official colors
+	
+	- light light brown: #ebe7d3
+	- background almost white brown: #F4F1EA 
+	- dark brown (ie. buttons): #382110 
+
+	ligther brown: #6390c
+*/
+
+html, body {
+	height: 100%;
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-color: #F4F1EA;
+	color: #333;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+}
+
+h1 {
+	margin: 7px;
+	font-size: 2.2em;
+}
+
+.wrap {
+  min-height: 100%;
+}
+
+.content {
+	text-align: center;
+	margin-top: 50px;
+    padding-right: 10%;
+    padding-left: 10%;
+    overflow: auto;
+  	padding-bottom: 25px; /*footer height*/
+}
+
+.footer {
+    position: relative;
+  	margin-top: -25px;
+    left: 0;
+    bottom: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    clear: both;
+    text-align: center;
+    font-size: 11px;
+    line-height: 25px;
+    height: 25px;
+    background-color: #ebe7d3;
+    color: #333;
+}
+
+.footer a {
+	color: #382110;
+	text-decoration: underline;
+}
+
+.separator {
+	margin: 0px 6px;
+	font-weight: bold;
+	color: #382110;
+}
+
+.user-stats {
+	text-align: center;
+	padding-bottom: 60px;
+}
+
+.gr-button {
+	color: #f7f7f7;
+	background-color: #382110;
+}
+
+.gr-button:hover {
+	color: #f7f7f7;
+	background-color: #442813;
+}
+
+.gr-button:focus {
+	color: #f7f7f7;
+	background-color: #333;
+}
+
+#userid {
+	width: 300px;
+}
+
+.personal-info {
+	padding: 5px;
+	margin-bottom: 25px;
+}
+
+.graph-info {
+	padding: 5px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.avatar {
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+
+img {max-width: 100%;}
+
+.search-box {
+	padding: 10px 2px;
+}
+
+/* buttons */
+.btn {
+	display: inline-block;
+	padding: 7px 11px;
+	margin: 0px 1px;
+	font-size: 14px;
+	/*font-weight: bold;*/
+	text-decoration: none;
+	text-align: center;
+	/*border: 2px solid transparent;*/
+	border-radius: 3px;
+	color: #fff;
+	background-color: #382110;
+	border-color: #382110;
+}
+
+.btn:hover {
+  background-color: #442813;
+  text-decoration: none;
+  transition: background-color 0.05s linear;
+}
+
+.card {
+	box-shadow: 0 4px 6px 0 rgba(0,0,0,0.16), 
+				0 2px 4px 0 rgba(0,0,0,0.12);
+	padding: 20px 25px;
+	width:250px;
+	height: auto;
+	min-height: 500px; /*330 para 3 livros*/
+	text-align: left;
+	background-color: #f7f7f7;
+	border-top: 4px solid #382110;
+}
+
+.card-graph {
+	box-shadow: 0 4px 6px 0 rgba(0,0,0,0.16), 
+				0 2px 4px 0 rgba(0,0,0,0.12);
+	padding: 0px 25px;
+/*	width:250px;
+	height: auto;
+	min-height: 500px;
+	text-align: left;*/
+	background-color: #f7f7f7;
+	border-top: 4px solid #382110;
+}
+
+.card-single {
+	box-shadow: 0 4px 6px 0 rgba(0,0,0,0.16), 
+				0 2px 4px 0 rgba(0,0,0,0.12);
+	padding: 20px 25px;
+	width:250px;
+	height: auto;
+	min-height: 270px;
+	text-align: left;
+	background-color: #f7f7f7;
+	border-top: 4px solid #382110;
+}
+
+.card-title {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	padding-bottom: 15px;
+}
+
+.author-entry {
+	padding: 4px 0px;
+}
+
+.book-entry {
+	padding: 3px 0px;
+}
+
+.book-rank {
+	width: 1%;
+	display: block;
+	float: left;
+}
+
+.book-cover {
+	width: 25%;
+	display: block;
+	float: left;
+	min-height: 80px; /*some covers are smaller than the default size*/
+}
+
+.book-info {
+	display: block;
+	width: 74%;	
+	float: left;
+}
+
+.book-title, .book-title:visited {
+	font-size: 16px;
+	text-decoration: none;
+	color: #333;
+}
+
+.book-title:hover {
+	font-size: 16px;
+	text-decoration: underline;
+	color: #333;
+}
+
+.book-stat {
+	font-size: 14px;
+	color: hsl(0,0%,40%);
+}
+
+.number-stat {
+	text-align: center;
+	font-weight: bold;
+	font-size: 55px;
+	color: #333;
+}
+
+.form-inline {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+.credit {
+	text-align: center;
+	vertical-align: middle;
+	margin: 15px 0px;
+}
+
+.credit-text, .credit-logo {
+	line-height: 20px;
+	height: 100%;
+	vertical-align: middle;
+	padding: 5px;
+	display: inline-block;
+}
+
+.ranking-badge {
+	position: relative;
+	float: left;
+	top: -30px;
+	right: 12px;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    text-decoration: none;
+    background: #00635d; /*ff8A42; lastfm red: b90000;*/
+    border-radius: 30px 30px 30px 30px;
+    color: white;
+    padding: 3px 3px;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.w3-input {
+	padding: 10px;
+	display: inline-block;
+	border-radius: 3px;
+	border-bottom: 1px solid #ccc;
+	width:100%;
+}
+.w3-border {
+	border:1px solid #ccc!important;
+}
+
+/*  grid  */
+.line {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+
+/*  columns  */
+.col {
+/*	display: block;*/
+	/*float: left;*/
+	display:inline-block;
+	text-align: center;
+	/*margin: 1% 0 1% 1%;*/
+}
+/*.col:first-child { margin-left: 0; }*/
+
+
+/*  groups  */
+.group:before,
+.group:after {
+	content:"";
+	display:table;
+}
+.group:after {
+	clear:both;
+}
+.group {
+    zoom:1; /* IE 6/7 */
+}
+
+/*  thirds  */
+.third-three {
+	width: 100%;
+}
+.third-two {
+	width: 66.1%;
+}
+.third {
+	width: 32.2%;
+}
+
+/* FLEXBOX */
+
+.block-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.block {
+	margin: 15px 25px;
+	/*align-self: center;*/
+}
+
+/* only the top containers are top aligned */
+.user-stats > .block-container {
+	align-items: flex-start;
+}
+
+/* TOOLTIPS */
+
+.tooltip {
+	position: relative;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    position: absolute;
+    float: right;
+    z-index: 1;
+    top: 50px;
+    left: 0px;
+    width: 300px;
+    background-color: #FF6932;
+    color: #fff;
+    text-align: left;
+    border-radius: 3px;
+    padding: 4px 8px;
+    opacity: 0;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    float: left;
+    bottom: 100%;
+    left: 10%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent #FF6932 transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0.15s, opacity 0.15s linear;
+}

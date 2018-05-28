@@ -1,0 +1,2911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[rEyzczUui8qQTaNmn2pxA]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive="true" id="43536574" name="read" sortable="false"/>
+
+<reviews start="1" end="38" total="38">
+    <review>
+  <id>2311298277</id>
+    <book>
+  <id type="integer">31933977</id>
+  <isbn>031627383X</isbn>
+  <isbn13>9780316273831</isbn13>
+  <text_reviews_count type="integer">95</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2w51WYHPGfR9wq5DJVCG1A</uri>
+  <title>Lady of the Lake (The Witcher, #7)</title>
+  <title_without_series>Lady of the Lake</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1481521908m/31933977.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1481521908s/31933977.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31933977-lady-of-the-lake</link>
+  <num_pages>560</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orbit</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>17546</ratings_count>
+  <description>&lt;b&gt;The Witcher returns in this action-packed sequel to &lt;i&gt;The Tower of Swallows,&lt;/i&gt; in the &lt;i&gt;New York Times &lt;/i&gt;bestselling series that inspired &lt;i&gt;The Witcher &lt;/i&gt;video games. &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;After walking through the portal in the Tower of Swallows while narrowly escaping death, Ciri finds herself in a completely different world... an Elven world. She is trapped with no way out. Time does not seem to exist and there are no obvious borders or portals to cross back into her home world.&lt;br /&gt;&lt;br /&gt; But this is Ciri, the child of prophecy, and she will not be defeated. She knows she must escape to finally rejoin the Witcher, Geralt, and his companions - and also to try to conquer her worst nightmare. Leo Bonhart, the man who chased, wounded and tortured Ciri, is still on her trail. And the world is still at war.&lt;br /&gt;&lt;b&gt;Witcher novels&lt;/b&gt;&lt;br /&gt;&lt;i&gt;Blood of Elves &lt;br /&gt;The Time of Contempt&lt;br /&gt;Baptism of Fire &lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Tower of Swallows&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Lady of the Lake&lt;/i&gt;&lt;br /&gt;&lt;i&gt;
+  &lt;br /&gt;&lt;/i&gt;&lt;b&gt;Witcher collections&lt;/b&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;i&gt;Sword of Destiny&lt;/i&gt;&lt;i&gt;
+  &lt;br /&gt;&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)&lt;br /&gt;&lt;br /&gt;Translated from original Polish by David French</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>66346</id>
+  <uri>kca://work/amzn1.gr.work.v1.pDIIeNpcC3Me_AW7D7oqsA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Feb 27 22:08:07 -0800 2018</started_at>
+  <read_at>Sun Mar 04 11:25:18 -0800 2018</read_at>
+  <date_added>Tue Feb 27 22:08:06 -0800 2018</date_added>
+  <date_updated>Sun Mar 04 11:25:18 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2311298277]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2311298277]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2310518637</id>
+    <book>
+  <id type="integer">18247597</id>
+  <isbn>1473211565</isbn>
+  <isbn13>9781473211568</isbn13>
+  <text_reviews_count type="integer">145</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VZGXkLgns24dHsXTufnS8g</uri>
+  <title>The Tower of the Swallow (The Witcher, #6)</title>
+  <title_without_series>The Tower of the Swallow</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1457652195m/18247597.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1457652195s/18247597.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18247597-the-tower-of-the-swallow</link>
+  <num_pages>448</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>20491</ratings_count>
+  <description>The world has fallen into war. Ciri, the child of prophecy, has vanished. Hunted by friends and foes alike, she has taken on the guise of a petty bandit and lives free for the first time in her life. But the net around her is closing. Geralt, the Witcher, has assembled a group of allies determined to rescue her. Both sides of the war have sent brutal mercenaries to hunt her down. Her crimes have made her famous. &lt;br /&gt;&lt;br /&gt;There is only one place left to run. The tower of the swallow is waiting...</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>66349</id>
+  <uri>kca://work/amzn1.gr.work.v1.6l4UVEnyqkDomuhnYPlmYg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Feb 27 10:12:40 -0800 2018</started_at>
+  <read_at>Tue Feb 27 22:06:33 -0800 2018</read_at>
+  <date_added>Tue Feb 27 10:12:39 -0800 2018</date_added>
+  <date_updated>Tue Feb 27 22:07:05 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2310518637]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2310518637]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2303783809</id>
+    <book>
+  <id type="integer">18656031</id>
+  <isbn>0316219185</isbn>
+  <isbn13>9780316219181</isbn13>
+  <text_reviews_count type="integer">263</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LEE2r4TZi1YmC8F6TkxgpQ</uri>
+  <title>Baptism of Fire (The Witcher #5)</title>
+  <title_without_series>Baptism of Fire</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1443279182m/18656031.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1443279182s/18656031.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18656031-baptism-of-fire</link>
+  <num_pages>343</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orbit</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>23849</ratings_count>
+  <description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestselling series that inspired the international hit video game: &lt;i&gt;The Witcher&lt;/i&gt;&lt;/b&gt;&lt;b&gt;
+  &lt;i&gt;
+    &lt;br /&gt;&lt;/i&gt;
+&lt;/b&gt; &lt;br /&gt;The Wizards Guild has been shattered by a coup and, in the uproar, Geralt was seriously injured. The Witcher is supposed to be a guardian of the innocent, a protector of those in need, a defender against powerful and dangerous monsters that prey on men in dark times. &lt;br /&gt;&lt;br /&gt;But now that dark times have fallen upon the world, Geralt is helpless until he has recovered from his injuries. &lt;br /&gt;&lt;br /&gt;While war rages across all of the lands, the future of magic is under threat and those sorcerers who survive are determined to protect it. It's an impossible situation in which to find one girl - Ciri, the heiress to the throne of Cintra, has vanished - until a rumor places her in the Niflgaard court, preparing to marry the Emperor. &lt;br /&gt;&lt;br /&gt;Injured or not, Geralt has a rescue mission on his hands. &lt;br /&gt;&lt;br /&gt;The Witcher returns in this action-packed sequel to &lt;i&gt;The Time of Contempt&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The Witcher series &lt;/b&gt;&lt;br /&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Sword of Destiny &lt;/i&gt;&lt;br /&gt;&lt;i&gt;Blood of Elves&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Time of Contempt&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Baptism of Fire&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>1877750</id>
+  <uri>kca://work/amzn1.gr.work.v1.rcHs2Ljv5c557O6wgH7d6w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Feb 21 10:53:46 -0800 2018</started_at>
+  <read_at>Fri Feb 23 23:00:19 -0800 2018</read_at>
+  <date_added>Wed Feb 21 10:53:45 -0800 2018</date_added>
+  <date_updated>Fri Feb 23 23:00:24 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2303783809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2303783809]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2302489280</id>
+    <book>
+  <id type="integer">14781491</id>
+  <isbn>0316219134</isbn>
+  <isbn13>9780316219136</isbn13>
+  <text_reviews_count type="integer">328</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kNEaJBam9z7-51N_trS9IA</uri>
+  <title>The Time of Contempt (The Witcher, #4)</title>
+  <title_without_series>The Time of Contempt</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1443278961m/14781491.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1443278961s/14781491.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14781491-the-time-of-contempt</link>
+  <num_pages>331</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orbit</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>28179</ratings_count>
+  <description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestselling series that inspired the international hit video game: &lt;i&gt;The Witcher&lt;/i&gt;&lt;/b&gt;&lt;b&gt;
+  &lt;i&gt;
+    &lt;br /&gt;&lt;/i&gt;
+&lt;/b&gt;Geralt is a witcher: guardian of the innocent; protector of those in need; a defender, in dark times, against some of the most frightening creatures of myth and legend. His task, now, is to protect Ciri. A child of prophecy, she will have the power to change the world for good or for ill -- but only if she lives to use it.&lt;br /&gt;&lt;br /&gt;A coup threatens the Wizard's Guild.&lt;br /&gt;War breaks out across the lands.&lt;br /&gt;A serious injury leaves Geralt fighting for his life...&lt;br /&gt;... and Ciri, in whose hands the world's fate rests, has vanished...&lt;br /&gt;&lt;br /&gt;The Witcher returns in this sequel to &lt;em&gt;Blood of Elves.&lt;/em&gt;&lt;br /&gt;&lt;em&gt;
+  &lt;br /&gt;&lt;/em&gt;&lt;br /&gt;&lt;b&gt;The Witcher series &lt;/b&gt;&lt;br /&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Sword of Destiny &lt;/i&gt;&lt;br /&gt;&lt;i&gt;Blood of Elves&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Time of Contempt&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Baptism of Fire&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>1877759</id>
+  <uri>kca://work/amzn1.gr.work.v1.zjgrZ1NodXzWhSHVfwrw7Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Feb 20 08:43:27 -0800 2018</date_added>
+  <date_updated>Tue Feb 20 08:44:08 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2302489280]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2302489280]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2300184990</id>
+    <book>
+  <id type="integer">6043781</id>
+  <isbn>031602919X</isbn>
+  <isbn13>9780316029193</isbn13>
+  <text_reviews_count type="integer">711</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.U-PVlJFDlso-1fef_A_T_Q</uri>
+  <title>Blood of Elves (The Witcher, #3)</title>
+  <title_without_series>Blood of Elves</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1443278828m/6043781.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1443278828s/6043781.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6043781-blood-of-elves</link>
+  <num_pages>409</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hachette Book Group Orbit</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>36699</ratings_count>
+  <description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestselling series that inspired the international hit video game: &lt;i&gt;The Witcher.&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;For over a century, humans, dwarves, gnomes, and elves have lived together in relative peace. But times have changed, the uneasy peace is over, and now the races are fighting once again. The only good elf, it seems, is a dead elf.&lt;br /&gt;&lt;br /&gt;Geralt of Rivia, the cunning assassin known as The Witcher, has been waiting for the birth of a prophesied child. This child has the power to change the world - for good, or for evil.&lt;br /&gt;&lt;br /&gt;As the threat of war hangs over the land and the child is hunted for her extraordinary powers, it will become Geralt's responsibility to protect them all - and the Witcher never accepts defeat.&lt;br /&gt;&lt;br /&gt;The Witcher returns in this sequel to &lt;em&gt;The Last Wish&lt;/em&gt;, as the inhabitants of his world become embroiled in a state of total war.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The Witcher series &lt;/b&gt;&lt;br /&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Sword of Destiny &lt;/i&gt;&lt;br /&gt;&lt;i&gt;Blood of Elves&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Time of Contempt&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Baptism of Fire&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>1877722</id>
+  <uri>kca://work/amzn1.gr.work.v1.CzDz2jsmVtc8eaE20BWJoQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Sun Feb 18 10:22:28 -0800 2018</date_added>
+  <date_updated>Sun Feb 18 10:23:05 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2300184990]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2300184990]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2293234515</id>
+    <book>
+  <id type="integer">25318857</id>
+  <isbn>0316389706</isbn>
+  <isbn13>9780316389709</isbn13>
+  <text_reviews_count type="integer">137</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eXbJcAOOlOg85qAmI5AaUw</uri>
+  <title>Sword of Destiny (The Witcher, #2)</title>
+  <title_without_series>Sword of Destiny</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1449159346m/25318857.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1449159346s/25318857.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25318857-sword-of-destiny</link>
+  <num_pages>393</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orbit</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.39</average_rating>
+  <ratings_count>33272</ratings_count>
+  <description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestselling series that inspired the international hit video game: &lt;i&gt;The Witcher.&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Geralt is a witcher, a man whose magic powers, enhanced by long training and a mysterious elixir, have made him a brilliant fighter and a merciless assassin. Yet he is no ordinary murderer: his targets are the multifarious monsters and vile fiends that ravage the land and attack the innocent. &lt;br /&gt;&lt;br /&gt;This is a collection of short stories, following the adventures of the hit collection THE LAST WISH. Join Geralt as he battles monsters, demons and prejudices alike...&lt;br /&gt;&lt;b&gt;The Witcher series &lt;/b&gt;&lt;br /&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Sword of Destiny &lt;/i&gt;&lt;br /&gt;&lt;i&gt;Blood of Elves&lt;/i&gt;&lt;br /&gt;&lt;i&gt;The Time of Contempt&lt;/i&gt;&lt;br /&gt;&lt;i&gt;Baptism of Fire&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>1877799</id>
+  <uri>kca://work/amzn1.gr.work.v1.l3Xi0XqYqPK2V6lhPfNQ4Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Sun Feb 11 23:43:30 -0800 2018</started_at>
+  <read_at>Wed Feb 14 12:55:46 -0800 2018</read_at>
+  <date_added>Sun Feb 11 23:43:29 -0800 2018</date_added>
+  <date_updated>Wed Feb 14 12:55:46 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2293234515]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2293234515]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>507199601</id>
+    <book>
+  <id type="integer">1128434</id>
+  <isbn>0575077832</isbn>
+  <isbn13>9780575077836</isbn13>
+  <text_reviews_count type="integer">2090</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.g3-BBVyBqGjI3u8IO0NREw</uri>
+  <title>The Last Wish (The Witcher, #1)</title>
+  <title_without_series>The Last Wish</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1128434.The_Last_Wish</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>67403</ratings_count>
+  <description>Geralt of Rivia is a witcher. A cunning sorcerer. A merciless assassin. &lt;br /&gt;&lt;br /&gt;And a cold-blooded killer.&lt;br /&gt;&lt;br /&gt;His sole purpose: to destroy the monsters that plague the world. &lt;br /&gt;&lt;br /&gt;But not everything monstrous-looking is evil and not everything fair is good. . . and in every fairy tale there is a grain of truth. &lt;br /&gt;&lt;br /&gt;The international hit that inspired the video game: The Witcher.</description>
+<authors>
+<author>
+<id>38569</id>
+<name>Andrzej Sapkowski</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p5/38569.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1241014902p2/38569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38569.Andrzej_Sapkowski]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>264132</ratings_count>
+<text_reviews_count>10358</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2293675</id>
+  <uri>kca://work/amzn1.gr.work.v1.mTS9WiZQlJRWsv8cdio7ew</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Jan 31 09:21:50 -0800 2018</started_at>
+  <read_at>Sat Feb 10 01:35:41 -0800 2018</read_at>
+  <date_added>Tue Jan 15 09:39:43 -0800 2013</date_added>
+  <date_updated>Sat Feb 10 01:35:41 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/507199601]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/507199601]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2259082554</id>
+    <book>
+  <id type="integer">7613</id>
+  <isbn>0452284244</isbn>
+  <isbn13>9780452284241</isbn13>
+  <text_reviews_count type="integer">28070</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A</uri>
+  <title>Animal Farm</title>
+  <title_without_series>Animal Farm</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1424037542m/7613.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1424037542s/7613.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7613.Animal_Farm</link>
+  <num_pages>122</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>2153202</ratings_count>
+  <description>As ferociously fresh as it was more than a half century ago, this remarkable allegory of a downtrodden society of overworked, mistreated animals, and their quest to create a paradise of progress, justice, and equality is one of the most scathing satires ever published. As we witness the rise and bloody fall of the revolutionary animals, we begin to recognize the seeds of totalitarianism in the most idealistic organization; and in our most charismatic leaders, the souls of our cruelest oppressors.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>4764557</ratings_count>
+<text_reviews_count>104270</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2207778</id>
+  <uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Jan 15 11:40:51 -0800 2018</started_at>
+  <read_at>Sat Jan 20 01:07:40 -0800 2018</read_at>
+  <date_added>Mon Jan 15 11:40:50 -0800 2018</date_added>
+  <date_updated>Sat Jan 20 01:07:40 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2259082554]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2259082554]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>654564929</id>
+    <book>
+  <id type="integer">234225</id>
+  <isbn>0340839937</isbn>
+  <isbn13>9780340839935</isbn13>
+  <text_reviews_count type="integer">10562</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qA9y6PUyueZgrPslU9-nRw</uri>
+  <title>Dune (Dune Chronicles, #1)</title>
+  <title_without_series>Dune</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1434908555m/234225.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1434908555s/234225.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/234225.Dune</link>
+  <num_pages>604</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hodder &amp; Stoughton</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>565062</ratings_count>
+  <description>Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the 'spice' melange, the most important and valuable substance in the cosmos. The story explores the complex, multi-layered interactions of politics, religion, ecology, technology, and human emotion as the forces of the empire confront each other for control of Arrakis.&lt;br /&gt;&lt;br /&gt;Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.</description>
+<authors>
+<author>
+<id>58</id>
+<name>Frank Herbert</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1168661521p5/58.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1168661521p2/58.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/58.Frank_Herbert]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>996381</ratings_count>
+<text_reviews_count>23629</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3634639</id>
+  <uri>kca://work/amzn1.gr.work.v1.dzn2KcfMTbv4_Y7J--YkzQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Nov 20 07:31:59 -0800 2017</started_at>
+  <read_at>Sun Dec 17 09:41:15 -0800 2017</read_at>
+  <date_added>Sat Jun 29 16:52:29 -0700 2013</date_added>
+  <date_updated>Sun Dec 17 09:41:15 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/654564929]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/654564929]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2162044126</id>
+    <book>
+  <id type="integer">21611</id>
+  <isbn>0060510862</isbn>
+  <isbn13>9780060510862</isbn13>
+  <text_reviews_count type="integer">3421</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QJnY72VlwmqvjPOEzRCdxQ</uri>
+  <title>The Forever War (The Forever War, #1)</title>
+  <title_without_series>The Forever War</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1386852511m/21611.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1386852511s/21611.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21611.The_Forever_War</link>
+  <num_pages>278</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Voyager</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>111098</ratings_count>
+  <description>&lt;b&gt;Series Info:&lt;/b&gt;&lt;br /&gt;This is the first part of the "Forever War" series, however it can be read as a standalone.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Book Description:&lt;/b&gt;&lt;br /&gt;The Earth's leaders have drawn a line in the interstellar sand—despite the fact that the fierce alien enemy that they would oppose is inscrutable, unconquerable, and very far away. A reluctant conscript drafted into an elite Military unit, Private William Mandella has been propelled through space and time to fight in the distant thousand-year conflict; to perform his duties without rancor and even rise up through military ranks. Pvt. Mandella is willing to do whatever it takes to survive the ordeal and return home. But "home" may be even more terrifying than battle, because, thanks to the time dilation caused by space travel, Mandella is aging months while the Earth he left behind is aging centuries.</description>
+<authors>
+<author>
+<id>12476</id>
+<name>Joe Haldeman</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1224736362p5/12476.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1224736362p2/12476.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12476.Joe_Haldeman]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>186337</ratings_count>
+<text_reviews_count>9572</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>423</id>
+  <uri>kca://work/amzn1.gr.work.v1.3N5f1UcD9blp1W0J9OYoqg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at>Mon Oct 23 15:19:37 -0700 2017</read_at>
+  <date_added>Mon Oct 23 15:18:38 -0700 2017</date_added>
+  <date_updated>Mon Oct 23 15:19:37 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2162044126]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2162044126]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>795328962</id>
+    <book>
+  <id type="integer">18373</id>
+  <isbn>0156030306</isbn>
+  <isbn13>9780156030304</isbn13>
+  <text_reviews_count type="integer">9516</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JNfsJbMmiYKkgtSQ4wI5ew</uri>
+  <title>Flowers for Algernon</title>
+  <title_without_series>Flowers for Algernon</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1367141311m/18373.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1367141311s/18373.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18373.Flowers_for_Algernon</link>
+  <num_pages>311</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mariner Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>372795</ratings_count>
+  <description>The story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie's intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance--until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?</description>
+<authors>
+<author>
+<id>11072</id>
+<name>Daniel Keyes</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1328430586p5/11072.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1328430586p2/11072.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11072.Daniel_Keyes]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>392427</ratings_count>
+<text_reviews_count>14284</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>3337594</id>
+  <uri>kca://work/amzn1.gr.work.v1.-hdCKRLRT34b2UyljvkJUw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Sep 18 06:11:16 -0700 2017</started_at>
+  <read_at>Sun Oct 15 16:28:37 -0700 2017</read_at>
+  <date_added>Fri Dec 20 15:54:15 -0800 2013</date_added>
+  <date_updated>Sun Oct 15 16:28:37 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/795328962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/795328962]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>772849054</id>
+    <book>
+  <id type="integer">2858426</id>
+  <isbn>8571644950</isbn>
+  <isbn13>9788571644953</isbn13>
+  <text_reviews_count type="integer">43</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KjjsKVICq_eZvMGazJy2Gg</uri>
+  <title>Ensaio Sobre a Cegueira</title>
+  <title_without_series>Ensaio Sobre a Cegueira</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1432284080m/2858426.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1432284080s/2858426.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2858426-ensaio-sobre-a-cegueira</link>
+  <num_pages>312</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Companhia das Letras</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>146516</ratings_count>
+  <description>Um motorista, parado no sinal, subitamente se descobre cego. É o primeiro caso de uma "treva branca" que logo se espalha incontrolavelmente. Resguardados em quarentena, os cegos vão se descobrir reduzidos à essência humana, numa verdadeira viagem às trevas.&lt;br /&gt;&lt;br /&gt;O "Ensaio sobre a cegueira" é a fantasia de um autor que nos faz lembrar "a responsabilidade de ter olhos quando os outros os perderam". José Saramago nos dá, aqui, uma imagem aterradora e comovente de tempos sombrios, à beira de um novo milênio, impondo-se à companhia dos maiores visionários modernos, como Franz Kafka e Elias Canetti.&lt;br /&gt;&lt;br /&gt;Cada leitor viverá uma experiência imaginativa única. Num ponto onde se cruzam literatura e sabedoria, José Saramago nos obriga a parar, fechar os olhos e ver. Recuperar a lucidez, resgatar o afeto: essas são as tarefas do escritor e de cada leitor, diante da pressão dos tempos e do que se perdeu: "uma coisa que não tem nome, essa coisa é o que somos".</description>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>310868</ratings_count>
+<text_reviews_count>25900</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>3213039</id>
+  <uri>kca://work/amzn1.gr.work.v1.MVMEQEBRoGKbG4zib6155Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Sep 04 13:13:25 -0700 2017</started_at>
+  <read_at>Sat Sep 09 02:08:49 -0700 2017</read_at>
+  <date_added>Sun Nov 24 10:56:37 -0800 2013</date_added>
+  <date_updated>Mon Feb 12 06:17:25 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/772849054]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/772849054]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1851490623</id>
+    <book>
+  <id type="integer">13356708</id>
+  <isbn>054792819X</isbn>
+  <isbn13>9780547928197</isbn13>
+  <text_reviews_count type="integer">103</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FRLNrftMOKtXzhj0F_lDvQ</uri>
+  <title>The Return of the King (The Lord of the Rings, #3)</title>
+  <title_without_series>The Return of the King</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1483319609m/13356708.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1483319609s/13356708.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13356708-the-return-of-the-king</link>
+  <num_pages>520</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mariner Books</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.51</average_rating>
+  <ratings_count>542113</ratings_count>
+  <description>The third volume in J.R.R. Tolkien's epic adventure &lt;i&gt;THE LORD OF THE RINGS&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;As the Shadow of Mordor grows across the land, the Companions of the Ring have become involved in separate adventures. Aragorn, revealed as the hidden heir of the ancient Kings of the West, has joined with the Riders of Rohan against the forces of Isengard, and takes part in the desperate victory of the Hornburg. Merry and Pippin, captured by Orcs, escape into Fangorn Forest and there encounter the Ents. Gandalf has miraculously returned and defeated the evil wizard, Saruman. Sam has left his master for dead after a battle with the giant spider, Shelob; but Frodo is still alive—now in the foul hands of the Orcs. And all the while the armies of the Dark Lord are massing as the One Ring draws ever nearer to the Cracks of Doom.&lt;br /&gt;&lt;br /&gt;“A triumphant close . . . a grand piece of work, grand in both conception and execution. An astonishing imaginative tour de force.” – &lt;i&gt;Daily Telegraph&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Includes the complete appendices and index for &lt;i&gt;The Lord of the Rings&lt;/i&gt; trilogy.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6761980</ratings_count>
+<text_reviews_count>102378</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>2964424</id>
+  <uri>kca://work/amzn1.gr.work.v1.WjActQznJYvOQEivNkpoJQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Dec 26 15:48:25 -0800 2016</started_at>
+  <read_at>Sun Aug 27 15:10:49 -0700 2017</read_at>
+  <date_added>Mon Dec 26 15:48:25 -0800 2016</date_added>
+  <date_updated>Sun Aug 27 15:10:49 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1851490623]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1851490623]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1086125377</id>
+    <book>
+  <id type="integer">14064</id>
+  <isbn>1857988094</isbn>
+  <isbn13>9781857988093</isbn13>
+  <text_reviews_count type="integer">2971</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SElcu5Ldjp9JZV2U2Z_xmw</uri>
+  <title>I Am Legend</title>
+  <title_without_series>I Am Legend</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1390170456m/14064.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1390170456s/14064.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14064.I_Am_Legend</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information>SF Masterworks #2</edition_information>
+  <publisher>Millenium</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>68441</ratings_count>
+  <description>Robert Neville is the last living man on Earth... but he is not alone. Every other man, woman and child on the planet has become a vampire, and they are hungry for Neville's blood.&lt;br /&gt;&lt;br /&gt;By day he is the hunter, stalking the undead through the ruins of civilisation. By night, he barricades himself in his home and prays for the dawn.&lt;br /&gt;&lt;br /&gt;How long can one man survive like this?&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>8726</id>
+<name>Richard Matheson</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1200467797p5/8726.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1200467797p2/8726.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8726.Richard_Matheson]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>281633</ratings_count>
+<text_reviews_count>16374</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>19273256</id>
+  <uri>kca://work/amzn1.gr.work.v1.VgcRWxkegyQ0vCKLm5_yfA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Thu Feb 05 00:00:00 -0800 2015</started_at>
+  <read_at>Tue Jul 07 15:15:59 -0700 2015</read_at>
+  <date_added>Tue Oct 21 18:07:47 -0700 2014</date_added>
+  <date_updated>Tue Jul 07 15:15:59 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1086125377]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1086125377]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1080390837</id>
+    <book>
+  <id type="integer">13548763</id>
+  <isbn>0006486118</isbn>
+  <isbn13>9780006486114</isbn13>
+  <text_reviews_count type="integer">203</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TDBn16tyxGNCaIF_4xwHAQ</uri>
+  <title>A Dance with Dragons (A Song of Ice and Fire, #5)</title>
+  <title_without_series>A Dance with Dragons</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1331915054m/13548763.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1331915054s/13548763.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13548763-a-dance-with-dragons</link>
+  <num_pages>1184</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>HarperVoyager</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>457190</ratings_count>
+  <description>&lt;b&gt;In the aftermath of a colossal battle, new threats are emerging from every direction.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Tyrion Lannister, having killed his father, and wrongfully accused of killing his nephew, King Joffrey, has escaped from King's Landing with a price on his head.&lt;br /&gt;&lt;br /&gt;To the north lies the great Wall of ice and stone – a structure only as strong as those guarding it. Eddard Stark's bastard son Jon Snow has been elected 998th Lord Commander of the Night's Watch. But he has enemies both inside and beyond the Wall. And in the east Daenerys Targaryen struggles to hold a city built on dreams and dust.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>2936175</id>
+  <uri>kca://work/amzn1.gr.work.v1.DgddmP8Yc8zfF8jF6HOwFQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Oct 14 00:00:00 -0700 2014</started_at>
+  <read_at>Thu Jan 01 15:35:10 -0800 2015</read_at>
+  <date_added>Tue Oct 14 18:15:51 -0700 2014</date_added>
+  <date_updated>Thu Jan 01 15:35:10 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1080390837]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1080390837]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1042376165</id>
+    <book>
+  <id type="integer">822991</id>
+  <isbn>0006486126</isbn>
+  <isbn13>9780006486121</isbn13>
+  <text_reviews_count type="integer">335</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jlmBPQjv2A8B4t67H3ZUGA</uri>
+  <title>A Feast for Crows (A Song of Ice and Fire, #4)</title>
+  <title_without_series>A Feast for Crows</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1365704053m/822991.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1365704053s/822991.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/822991.A_Feast_for_Crows</link>
+  <num_pages>936</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperVoyager</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>515716</ratings_count>
+  <description>&lt;i&gt;Crows will fight over a dead man's flesh, and kill each other for his eyes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Bloodthirsty, treacherous and cunning, the Lannisters are in power on the Iron Throne in the name of the boy-king Tommen. The war in the Seven Kingdoms has burned itself out, but in its bitter aftermath new conflicts spark to life.&lt;br /&gt;&lt;br /&gt;The Martells of Dorne and the Starks of Winterfell seek vengeance for their dead. Euron Crow's Eye, as black a pirate as ever raised a sail, returns from the smoking ruins of Valyria to claim the Iron Isles. From the icy north, where Others threaten the Wall, apprentice Maester Samwell Tarly brings a mysterious babe in arms to the Citadel.&lt;br /&gt;&lt;br /&gt;Against a backdrop of incest and fratricide, alchemy and murder, victory will go to the men and women possessed of the coldest steel and the coldest hearts.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1019062</id>
+  <uri>kca://work/amzn1.gr.work.v1.bc9MHw9pLQ6f8KzsHVjbug</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Sep 01 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Oct 05 14:48:14 -0700 2014</read_at>
+  <date_added>Mon Sep 01 08:16:59 -0700 2014</date_added>
+  <date_updated>Sun Oct 05 14:48:14 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1042376165]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1042376165]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>859398249</id>
+    <book>
+  <id type="integer">18004072</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fzhlSfHN0ggDO2ETwsqkIA</uri>
+  <title>The Two Towers (The Lord of the Rings, #2)</title>
+  <title_without_series>The Two Towers</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1370112910m/18004072.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1370112910s/18004072.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18004072-the-two-towers</link>
+  <num_pages>329</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>4.42</average_rating>
+  <ratings_count>565118</ratings_count>
+  <description>The Company of the Ring is sundered. Frodo and Sam continue their journey down the great River Anduin - alone that is, save for a mysterious creeping figure that follows wherever they go. &lt;br /&gt;&lt;br /&gt;Thus continues the classic tale begun in The Fellowship of the Ring, which reaches its awesome climax in The Return of the King.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6761980</ratings_count>
+<text_reviews_count>102378</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>2963845</id>
+  <uri>kca://work/amzn1.gr.work.v1.7HYa-NzAod268UqqaMOl4w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Feb 19 00:00:00 -0800 2014</started_at>
+  <read_at>Tue Aug 05 00:00:00 -0700 2014</read_at>
+  <date_added>Wed Feb 19 08:44:46 -0800 2014</date_added>
+  <date_updated>Tue Aug 05 17:29:37 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/859398249]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/859398249]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>987653907</id>
+    <book>
+  <id type="integer">147915</id>
+  <isbn>0007119550</isbn>
+  <isbn13>9780007119554</isbn13>
+  <text_reviews_count type="integer">1434</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MNnarx0iyh4E8UWFarDELA</uri>
+  <title>A Storm of Swords: Blood and Gold (A Song of Ice and Fire, #3: Part 2 of 2)</title>
+  <title_without_series>A Storm of Swords: Blood and Gold</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1354567206m/147915.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1354567206s/147915.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/147915.A_Storm_of_Swords</link>
+  <num_pages>639</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperVoyager</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>68385</ratings_count>
+  <description>The Starks are scattered.&lt;br /&gt;&lt;br /&gt;Robb Stark may be King in the North, but he must bend to the will of the old tyrant Walder Frey if he is to hold his crown. And while his youngest sister, Arya, has escaped the clutches of the depraved Cersei Lannister and her son, the capricious boy-king Joffrey, Sansa Stark remains their captive.&lt;br /&gt;&lt;br /&gt;Meanwhile, across the ocean, Daenerys Stormborn, the last heir of the Dragon King, delivers death to the slave-trading cities of Astapor and Yunkai as she approaches Westeros with vengeance in her heart.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>6571827</id>
+  <uri>kca://work/amzn1.gr.work.v1.TtLtyjiYI_0zsKvUOQ09nw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Sun Jul 06 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Jul 13 00:00:00 -0700 2014</read_at>
+  <date_added>Sun Jul 06 06:28:36 -0700 2014</date_added>
+  <date_updated>Sun Jul 13 17:53:51 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/987653907]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/987653907]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>974980152</id>
+    <book>
+  <id type="integer">11734301</id>
+  <isbn>0007447841</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">206</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.W33Wyzdys7jLO4Kbb9Fe5Q</uri>
+  <title>A Storm of Swords: Steel and Snow (A Song of Ice and Fire, #3, Part 1 of 2)</title>
+  <title_without_series>A Storm of Swords: Steel and Snow</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1358529326m/11734301.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1358529326s/11734301.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11734301-a-storm-of-swords</link>
+  <num_pages>623</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Voyager</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>56695</ratings_count>
+  <description>HBO's hit series A GAME OF THRONES is based on George R R Martin's internationally bestselling series A SONG OF ICE AND FIRE, the greatest fantasy epic of the modern age. A STORM OF SWORDS: STEEL AND SNOW is the FIRST part of the third volume in the series. Winter approaches Westeros like an angry beast. The Seven Kingdoms are divided by revolt and blood feud. In the northern wastes, a horde of hungry, savage people steeped in the dark magic of the wilderness is poised to invade the Kingdom of the North where Robb Stark wears his new-forged crown. And Robb's defences are ranged against the South, the land of the cunning and cruel Lannisters, who have his younger sisters in their power. Throughout Westeros, the war for the Iron Throne rages more fiercely than ever, but if the Wall is breached, no king will live to claim it.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>17243368</id>
+  <uri>kca://work/amzn1.gr.work.v1.E9BD9JPK9txCPiL0y_CASg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Sun Jun 22 00:00:00 -0700 2014</started_at>
+  <read_at>Sat Jul 05 00:00:00 -0700 2014</read_at>
+  <date_added>Sun Jun 22 19:57:53 -0700 2014</date_added>
+  <date_updated>Sun Jul 06 06:27:39 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/974980152]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/974980152]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>872497484</id>
+    <book>
+  <id type="integer">13557296</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fBTlzp896Nnrdg53PrJpiA</uri>
+  <title>A Clash of Kings (A Song of Ice and Fire, #2)</title>
+  <title_without_series>A Clash of Kings</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1333912231m/13557296.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1333912231s/13557296.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13557296-a-clash-of-kings</link>
+  <num_pages>873</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Voyager </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>651524</ratings_count>
+  <description>Alternate cover edition can be found &lt;a href="https://www.goodreads.com/book/show/6041689-a-clash-of-kings" rel="nofollow"&gt;here&lt;/a&gt;. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Time is out of joint. The summer of peace and plenty, ten years long, is drawing to a close, and the harsh, chill winter approaches like an angry beast. Two great leaders—Lord Eddard Stark and Robert Baratheon—who held sway over an age of enforced peace are dead...victims of royal treachery. Now, from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns, as pretenders to the Iron Throne of the Seven Kingdoms prepare to stake their claims through tempest, turmoil, and war. &lt;br /&gt;&lt;br /&gt;As a prophecy of doom cuts across the sky—a comet the color of blood and flame—six factions struggle for control of a divided land. Eddard's son Robb has declared himself King in the North. In the south, Joffrey, the heir apparent, rules in name only, victim of the scheming courtiers who teem over King's Landing. Robert's two brothers each seek their own dominion, while a disfavored house turns once more to conquest. And a continent away, an exiled queen, the Mother of Dragons, risks everything to lead her precious brood across a hard hot desert to win back the crown that is rightfully hers. &lt;br /&gt;&lt;br /&gt;A Clash of Kings transports us into a magnificent, forgotten land of revelry and revenge, wizardry and wartime. It is a tale in which maidens cavort with madmen, brother plots against brother, and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. &lt;br /&gt;&lt;br /&gt;Against a backdrop of incest and fratricide, alchemy and murder, the price of glory may be measured in blood. And the spoils of victory may just go to the men and women possessed of the coldest steel...and the coldest hearts. For when rulers clash, all of the land feels the tremors. &lt;br /&gt;&lt;br /&gt;Audacious, inventive, brilliantly imagined, A Clash of Kings is a novel of dazzling beauty and boundless enchantment;a tale of pure excitement you will never forget.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>3272005</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZwQUnZUDIhc6xQSzb3cYCQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Mar 05 00:00:00 -0800 2014</started_at>
+  <read_at>Thu May 29 08:40:29 -0700 2014</read_at>
+  <date_added>Wed Mar 05 04:40:52 -0800 2014</date_added>
+  <date_updated>Thu May 29 08:40:29 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/872497484]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/872497484]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430970026</id>
+    <book>
+  <id type="integer">13604689</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xIkKFJ0ItiKBmXLbYq1DLQ</uri>
+  <title>The Fellowship of the Ring (The Lord of the Rings, #1)</title>
+  <title_without_series>The Fellowship of the Ring</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1334597859m/13604689.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1334597859s/13604689.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13604689-the-fellowship-of-the-ring</link>
+  <num_pages>407</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Collins</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.34</average_rating>
+  <ratings_count>1961176</ratings_count>
+  <description>One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkeness bind them&lt;br /&gt;&lt;br /&gt;In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, The Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit.&lt;br /&gt;&lt;br /&gt;In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6761980</ratings_count>
+<text_reviews_count>102378</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>3204327</id>
+  <uri>kca://work/amzn1.gr.work.v1.9REDn-8i069k4tnkJOyIFA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Dec 30 00:00:00 -0800 2013</started_at>
+  <read_at>Tue Feb 04 15:32:07 -0800 2014</read_at>
+  <date_added>Tue Oct 09 14:56:53 -0700 2012</date_added>
+  <date_updated>Tue Feb 04 15:32:07 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430970026]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430970026]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430969942</id>
+    <book>
+  <id type="integer">289870</id>
+  <isbn>054792822X</isbn>
+  <isbn13>9780547928227</isbn13>
+  <text_reviews_count type="integer">559</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CapdGhpjdiS7kY17f7zEUA</uri>
+  <title>The Hobbit</title>
+  <title_without_series>The Hobbit</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1493915645m/289870.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1493915645s/289870.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/289870.The_Hobbit</link>
+  <num_pages>300</num_pages>
+  <format>Paperback</format>
+  <edition_information>75th Anniversary Edition</edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>2348943</ratings_count>
+  <description>&lt;i&gt;Librarian note: an alternate cover for this edition can be found &lt;a href="https://www.goodreads.com/book/show/20342396-the-hobbit" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Bilbo Baggins is a hobbit who enjoys a comfortable, unambitious life, rarely traveling further than the pantry of his hobbit-hole in Bag End. But his contentment is disturbed when the wizard, Gandalf, and a company of thirteen dwarves arrive on his doorstep one day to whisk him away on an unexpected journey ‘there and back again’. They have a plot to raid the treasure hoard of Smaug the Magnificent, a large and very dangerous dragon.&lt;br /&gt;&lt;br /&gt;The prelude to &lt;i&gt;The Lord of the Rings&lt;/i&gt;, &lt;i&gt;The Hobbit&lt;/i&gt; has sold many millions of copies since its publication in 1937, establishing itself as one of the most beloved and influential books of the twentieth century.</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1434625177p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>6761980</ratings_count>
+<text_reviews_count>102378</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>1540236</id>
+  <uri>kca://work/amzn1.gr.work.v1.Upx53g0wmFL_YBYIGV2Lzg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Dec 18 00:00:00 -0800 2013</started_at>
+  <read_at>Wed Dec 25 10:50:41 -0800 2013</read_at>
+  <date_added>Tue Oct 09 14:56:26 -0700 2012</date_added>
+  <date_updated>Tue Apr 29 09:36:14 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430969942]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430969942]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>772847671</id>
+    <book>
+  <id type="integer">2397517</id>
+  <isbn>9722118315</isbn>
+  <isbn13>9789722118316</isbn13>
+  <text_reviews_count type="integer">31</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FUeZaodoeFK3T011tcIwGw</uri>
+  <title>As Pequenas Memórias</title>
+  <title_without_series>As Pequenas Memórias</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1405875416m/2397517.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1405875416s/2397517.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2397517.As_Pequenas_Mem_rias</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Caminho</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.52</average_rating>
+  <ratings_count>2134</ratings_count>
+  <description>&lt;i&gt;As Pequenas Memórias&lt;/i&gt; é um livro de recordações que abrange o período entre os quatro e os quinze anos da vida de José Saramago. O autor tinha &lt;i&gt;As Pequenas Memórias&lt;/i&gt; na cabeça há mais de 20 anos, por isso a altura para o escrever era esta: "Queria que os leitores soubessem de onde saiu o homem que sou".&lt;br /&gt;&lt;br /&gt;"Deixa-te levar pela criança que foste", 'Livro dos Conselhos'</description>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>310868</ratings_count>
+<text_reviews_count>25900</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2404535</id>
+  <uri>kca://work/amzn1.gr.work.v1.Rjmrer7vWayCgmohD_5Qfg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Mon Dec 02 00:00:00 -0800 2013</started_at>
+  <read_at>Mon Dec 16 06:57:28 -0800 2013</read_at>
+  <date_added>Sun Nov 24 10:54:31 -0800 2013</date_added>
+  <date_updated>Mon Dec 16 06:57:28 -0800 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/772847671]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/772847671]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>645957328</id>
+    <book>
+  <id type="integer">11788809</id>
+  <isbn>0007448031</isbn>
+  <isbn13>9780007448036</isbn13>
+  <text_reviews_count type="integer">642</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Un3FZlgv1_Fml7lUFLu7Yg</uri>
+  <title>A Game of Thrones (A Song of Ice and Fire, #1)</title>
+  <title_without_series>A Game of Thrones</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1336081813m/11788809.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1336081813s/11788809.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11788809-a-game-of-thrones</link>
+  <num_pages>801</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Voyager</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>1588705</ratings_count>
+  <description>&lt;i&gt;An alternate cover for this isbn can be found &lt;a href="https://www.goodreads.com/book/show/25430719.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Summers span decades. Winter can last a lifetime. And the struggle for the Iron Throne has begun.&lt;br /&gt;&lt;br /&gt;As Warden of the north, Lord Eddard Stark counts it a curse when King Robert bestows on him the office of the Hand. His honour weighs him down at court where a true man does what he will, not what he must … and a dead enemy is a thing of beauty.&lt;br /&gt;&lt;br /&gt;The old gods have no power in the south, Stark’s family is split and there is treachery at court. Worse, the vengeance-mad heir of the deposed Dragon King has grown to maturity in exile in the Free Cities. He claims the Iron Throne.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1351944410p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>4521498</ratings_count>
+<text_reviews_count>170226</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>1466917</id>
+  <uri>kca://work/amzn1.gr.work.v1.Vrl4aDtp2T19u85-Xfomzw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Sep 04 00:00:00 -0700 2013</started_at>
+  <read_at>Thu Nov 28 03:49:52 -0800 2013</read_at>
+  <date_added>Wed Jun 19 15:32:06 -0700 2013</date_added>
+  <date_updated>Mon Feb 12 06:25:56 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/645957328]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/645957328]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>654565925</id>
+    <book>
+  <id type="integer">7026430</id>
+  <isbn>1841491357</isbn>
+  <isbn13>9781841491356</isbn13>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.G2uf-89vQtQX26HU-D9P0w</uri>
+  <title>Ender's Game (Ender's Saga, #1)</title>
+  <title_without_series>Ender's Game</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328411868m/7026430.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328411868s/7026430.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7026430-ender-s-game</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Starscape</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>935239</ratings_count>
+  <description>Once Again, Earth is under attack. An alien species is poised for a front assault. The survival of humanity depends on a military genius who can defeat the aliens.&lt;br /&gt;But who?&lt;br /&gt;&lt;br /&gt;Ender Wiggin. Brilliant. Ruthless. Cunning. A tactical and strategic master. And a child.&lt;br /&gt;&lt;br /&gt;Recruited for military training by the world government, Ender's childhood ends the moment he enters his new home: Battle School. Among the elite recruits Ender proves himself to be a genius among geniuses. In simulated war games he excels. But is the pressure and loneliness taking its toll on Ender? Simulations are one thing. How will Ender perform in real combat conditions? After all, Battle School is just a game.&lt;br /&gt;&lt;br /&gt;Right?</description>
+<authors>
+<author>
+<id>589</id>
+<name>Orson Scott Card</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p5/589.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1294099952p2/589.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/589.Orson_Scott_Card]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>2283664</ratings_count>
+<text_reviews_count>96494</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2422333</id>
+  <uri>kca://work/amzn1.gr.work.v1.VGZlxSHM4ngy3MUPG3VaQg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Sun Jul 07 00:00:00 -0700 2013</started_at>
+  <read_at>Wed Jul 24 11:04:16 -0700 2013</read_at>
+  <date_added>Sat Jun 29 16:54:09 -0700 2013</date_added>
+  <date_updated>Wed Jul 24 11:04:16 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/654565925]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/654565925]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>578550591</id>
+    <book>
+  <id type="integer">7136</id>
+  <isbn>0140621806</isbn>
+  <isbn13>9780140621808</isbn13>
+  <text_reviews_count type="integer">63</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LyaE_ahiRJbG5n0a6N2shA</uri>
+  <title>Crime and Punishment</title>
+  <title_without_series>Crime and Punishment</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1380985395m/7136.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1380985395s/7136.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7136.Crime_and_Punishment</link>
+  <num_pages>434</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Popular Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day/>
+  <publication_year>1997</publication_year>
+  <publication_month/>
+  <average_rating>4.19</average_rating>
+  <ratings_count>487295</ratings_count>
+  <description>Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat and mouse with a suspicious police investigator, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden prostitute, can offer the chance of redemption.</description>
+<authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1506003555p5/3137322.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1506003555p2/3137322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1129642</ratings_count>
+<text_reviews_count>46615</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>3393917</id>
+  <uri>kca://work/amzn1.gr.work.v1.HoTVuZnWQOUr1DMlENNEsg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Apr 02 00:00:00 -0700 2013</started_at>
+  <read_at>Mon Jul 15 06:08:11 -0700 2013</read_at>
+  <date_added>Tue Apr 02 04:53:44 -0700 2013</date_added>
+  <date_updated>Mon Jul 15 06:08:11 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/578550591]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/578550591]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>467795899</id>
+    <book>
+  <id type="integer">7858389</id>
+  <isbn>9722519387</isbn>
+  <isbn13>9789722519380</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Ugk5BF1QLRdDRm_7uuRhDQ</uri>
+  <title>O Padrinho</title>
+  <title_without_series>O Padrinho</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1297773091m/7858389.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1297773091s/7858389.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7858389-o-padrinho</link>
+  <num_pages>704</num_pages>
+  <format>Paperback</format>
+  <edition_information>Livro de Bolso</edition_information>
+  <publisher>Bertrand</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>282628</ratings_count>
+  <description>Nova Iorque, anos 40. As organizações do crime debruçam-se sobre a emergência do consumo de drogas e a oportunidade da sua comercialização. Muitos antevêem na droga uma oportunidade irrecusável de expandir os lucros de uma forma nunca antes vista. Don Vito Corleone, o poderoso chefe do clã Corleone, opõe-se, dando origem a uma guerra sem tréguas entre as Famílias e à luta desesperada pelo controlo do submundo da Máfia.&lt;br /&gt;Brilhantemente escrito e com descrições notáveis do quotidiano de uma família mafiosa, O Padrinho é uma obra plena de personagens inesquecíveis, que deu origem à famosa trilogia cinematográfica realizada por Francis Ford Copolla.</description>
+<authors>
+<author>
+<id>12605</id>
+<name>Mario Puzo</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1379918709p5/12605.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1379918709p2/12605.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12605.Mario_Puzo]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>353398</ratings_count>
+<text_reviews_count>9199</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>266624</id>
+  <uri>kca://work/amzn1.gr.work.v1.ghdgm-cm8uJ4VaDtBHakRQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Sun Jan 20 00:00:00 -0800 2013</started_at>
+  <read_at>Mon Feb 25 05:11:29 -0800 2013</read_at>
+  <date_added>Sat Dec 01 16:39:05 -0800 2012</date_added>
+  <date_updated>Sun Jun 04 02:04:39 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/467795899]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/467795899]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>470471516</id>
+    <book>
+  <id type="integer">6696927</id>
+  <isbn>0575094184</isbn>
+  <isbn13>9780575094185</isbn13>
+  <text_reviews_count type="integer">210</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YfG4xneM9_1nyYuCJclPMg</uri>
+  <title>Do Androids Dream of Electric Sheep?</title>
+  <title_without_series>Do Androids Dream of Electric Sheep?</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1357936711m/6696927.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1357936711s/6696927.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6696927-do-androids-dream-of-electric-sheep</link>
+  <num_pages>193</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Gollancz</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>267845</ratings_count>
+  <description>It was January 2021, and Rick Deckard had a license to kill.&lt;br /&gt;Somewhere among the hordes of humans out there, lurked several rogue androids. Deckard's assignment--find them and then..."retire" them. Trouble was, the androids all looked exactly like humans, and they didn't want to be found!</description>
+<authors>
+<author>
+<id>4764</id>
+<name>Philip K. Dick</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1264613853p5/4764.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1264613853p2/4764.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4764.Philip_K_Dick]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>847509</ratings_count>
+<text_reviews_count>43161</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>830939</id>
+  <uri>kca://work/amzn1.gr.work.v1.cTEFssaxl9nUt_esFJPQfw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Jan 01 00:00:00 -0800 2013</started_at>
+  <read_at>Sat Jan 19 13:40:12 -0800 2013</read_at>
+  <date_added>Wed Dec 05 08:14:17 -0800 2012</date_added>
+  <date_updated>Sat Jan 19 13:40:12 -0800 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/470471516]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/470471516]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430973334</id>
+    <book>
+  <id type="integer">327335</id>
+  <isbn>9722117386</isbn>
+  <isbn13>9789722117388</isbn13>
+  <text_reviews_count type="integer">86</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UbWlauXwwrIMRiQOUtQENQ</uri>
+  <title>As Intermitências da Morte</title>
+  <title_without_series>As Intermitências da Morte</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1424739753m/327335.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1424739753s/327335.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/327335.As_Intermit_ncias_da_Morte</link>
+  <num_pages>214</num_pages>
+  <format>Paperback</format>
+  <edition_information>Large print</edition_information>
+  <publisher>Caminho</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>3.98</average_rating>
+  <ratings_count>25197</ratings_count>
+  <description>«No dia seguinte ninguém morreu».&lt;br /&gt;Que a morte tem as suas extravagancias, já todos nós sabíamos. Mas que se cansasse de exercer a sua principal actividade, nunca nos passou pela cabeça! &lt;br /&gt;&lt;br /&gt;Imagine que, de um momento para o outro, num certo país, as pessoas deixam de morrer. Estarão os líderes e os habitantes desse país preparados para gerir a vida eterna e as suas consequências?&lt;br /&gt;&lt;br /&gt;Colocada a hipótese, o autor desenvolve-a em todas as suas vertentes, e o leitor é conduzido com mão de mestre numa ampla divagação sobre a vida, a morte, o amor, e o sentido, ou a falta dele, da nossa existência.</description>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>310868</ratings_count>
+<text_reviews_count>25900</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>317973</id>
+  <uri>kca://work/amzn1.gr.work.v1.xvrTMy5i35Fx1afz9jWMpA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Oct 09 00:00:00 -0700 2012</started_at>
+  <read_at>Fri Nov 30 07:09:43 -0800 2012</read_at>
+  <date_added>Tue Oct 09 15:03:41 -0700 2012</date_added>
+  <date_updated>Fri Nov 30 07:09:43 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430973334]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430973334]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430968230</id>
+    <book>
+  <id type="integer">2814013</id>
+  <isbn>9722331000</isbn>
+  <isbn13>9789722331005</isbn13>
+  <text_reviews_count type="integer">53</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MV9zhbl4zIEIn5jGc1TNLg</uri>
+  <title> Harry Potter e a Ordem da Fénix (Harry Potter, #5)</title>
+  <title_without_series>Harry Potter e a Ordem da Fénix</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1313716769m/2814013.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1313716769s/2814013.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2814013-harry-potter-e-a-ordem-da-f-nix</link>
+  <num_pages>750</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>1970567</ratings_count>
+  <description>Este tem sido um Verão ainda mais insuportável que o costume, para Harry Potter. Sozinho com os Dursley, não consegue perceber por que razão Ron e Hermione lhe enviam respostas tão vagas às suas cartas...Isolado do mundo mágico a que pertence, Harry segue atentamente os noticiários, convencido de que até os Muggles se aperceberão de alguma coisa, se Lord Voldemort voltar a atacar... E é então que os acontecimentos se precipitam. Parece impossível, mas, no bairro mais Muggle do mundo Muggle, Harry é emboscado por Dementors! Para salvar a sua vida e a do primo Dudley, Harry não tem outra hipótese senão usar magia – mesmo sabendo que isso significará a sua expulsão mais que certa de Hogwarts.Enquanto o Ministério da Magia continua a não acreditar que o terrível Senhor das Trevas está de volta, Voldemort e os seus fiéis Devoradores da Morte já começaram a preparar o seu regresso ao poder. Porém, há uma nova esperança: uma antiga ordem secreta, da qual os pais de Harry fizeram parte, voltou a organizar-se e Dumbledore está atento.Harry Potter está de volta para mais um ano cheio de perigos, suspense, revelações inesperadas – e, claro, magia! Eis o tão aguardado quinto volume da série que tem vindo a encantar miúdos e graúdos no mundo inteiro, da autoria J. K. Rowling.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2809203</id>
+  <uri>kca://work/amzn1.gr.work.v1.QBlq2dw4tPMZSuXhlMeXww</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:53:34 -0700 2012</date_added>
+  <date_updated>Wed Dec 05 08:12:07 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430968230]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430968230]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430967979</id>
+    <book>
+  <id type="integer">2432403</id>
+  <isbn>9722338358</isbn>
+  <isbn13>9789722338356</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4pakMjZWOeN3d9N5JQNohA</uri>
+  <title>Harry Potter e os Talismãs da Morte (Harry Potter, #7)</title>
+  <title_without_series>Harry Potter e os Talismãs da Morte</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1293408204m/2432403.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1293408204s/2432403.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2432403.Harry_Potter_e_os_Talism_s_da_Morte</link>
+  <num_pages>605</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.62</average_rating>
+  <ratings_count>1994415</ratings_count>
+  <description>É neste sétimo volume que Harry Potter irá travar a mais negra e perigosa batalha da sua vida. Dumbledore reservou-lhe uma missão quase impossível – encontrar e destruir os Horcruxes de Voldemort… Nunca, em toda a sua longa série de aventuras, o jovem feiticeiro mais famoso do mundo se sentiu tão só e perante um futuro tão sombrio. Chegou o momento do confronto final – Harry Potter e Lord Voldemort… nenhum pode viver enquanto o outro sobreviver… um dos dois está prestes a acabar para sempre… Os seus destinos estão misteriosamente entrelaçados, mas apenas um sobreviverá... Numa atmosfera apoteótica e vibrante, Rowling desvenda-nos, por fim, os segredos mais bem guardados do universo fantástico de Harry Potter e deixa-nos envoltos, talvez para sempre, na sua poderosa magia. Este sétimo volume tem sido considerado pelo público e pela crítica como o melhor de toda a série Harry Potter.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2963218</id>
+  <uri>kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:53:06 -0700 2012</date_added>
+  <date_updated>Wed Dec 05 08:09:39 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430967979]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430967979]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430967038</id>
+    <book>
+  <id type="integer">3484606</id>
+  <isbn>9722325337</isbn>
+  <isbn13>9789722325332</isbn13>
+  <text_reviews_count type="integer">92</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kbgIj4CS_2K-R2nBAEb2_A</uri>
+  <title>Harry Potter e a Pedra Filosofal (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter e a Pedra Filosofal</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1491234276m/3484606.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1491234276s/3484606.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3484606-harry-potter-e-a-pedra-filosofal</link>
+  <num_pages>255</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>5337580</ratings_count>
+  <description>&lt;i&gt;Librarian note: alternate covers for this edition can be found &lt;a href="https://www.goodreads.com/book/show/25128520-harry-potter-e-a-pedra-filosofal" rel="nofollow"&gt;here&lt;/a&gt; and &lt;a href="https://www.goodreads.com/book/show/34766528-harry-potter-e-a-pedra-filosofal" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Harry Potter é antes de mais o fenómeno editorial de 1999. É-o porque demove crianças de jogos de computador e de infindáveis horas frente ao televisor. É-o porque está traduzido em cerca de 30 idiomas. É-o porque tem angariado os mais importantes prémios de literatura infanto-juvenil. É-o, por fim e entre outras inúmeras razões, porque ocupa há meses consecutivos os primeiros lugares das mais importantes listas de vendas mundiais. Mas Harry Potter, o personagem dos livros de J. K. Rowling, não é um herói habitual. É apenas um miúdo magricela, míope e desajeitado com uma estranha cicatriz na testa. Estranha, de facto, porque afinal encerra misteriosos poderes que o distinguem do cinzento mundo dos muggles (os complicados humanos) e que irá fazer dele uma criança especialmente dotada para o universo da magia. Admitido na escola Howgarts onde se formam os mais famosos feiticeiros do mundo, Harry Potter irá viver todas as aventuras que a sua imaginação lhe irá propocionar. Um grande sucesso editorial que os mais jovens adoram e que apetece também aos adultos.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:51:07 -0700 2012</date_added>
+  <date_updated>Wed Dec 05 08:08:42 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430967038]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430967038]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430968202</id>
+    <book>
+  <id type="integer">2936498</id>
+  <isbn>9722325698</isbn>
+  <isbn13>9789722325691</isbn13>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.C_G7-Tk7rj8PufCKVf_OsA</uri>
+  <title>Harry Potter e a Câmara dos Segredos (Harry Potter, #2)</title>
+  <title_without_series>Harry Potter e a Câmara dos Segredos</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1275817327m/2936498.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1275817327s/2936498.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2936498-harry-potter-e-a-c-mara-dos-segredos</link>
+  <num_pages>280</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month/>
+  <average_rating>4.39</average_rating>
+  <ratings_count>2074951</ratings_count>
+  <description>Alternate Cover Edition &lt;a href="https://www.goodreads.com/book/show/34410181-harry-potter-e-a-c-mara-dos-segredos&amp;quot;" rel="nofollow"&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;Harry Potter está ansioso por ver terminadas as medonhas férias de Verão que está a passar com os Dursleys, os Muggles mais Muggles de todo o planeta. Mas o tempo parece ter adormecido, ou então está com muita preguiça, porque nunca mais passa. Entretanto surge uma visita inesperada - uma estranha criatura de grandes olhos verdes e enormes orelhas, o elfo Dobby, que traz um sério e terrível aviso : HARRY POTTER NÃO DEVE VOLTAR PARA HOGWARTS. &lt;br /&gt;E a verdade é que no seu segundo ano na escola de feitiçaria, Harry vê-se envolvido numa terrível espiral de perigos e desventuras. Vozes horripilantes sussuram, vindas das paredes; algo ou alguém anda a transformar os alunos em pedra; aparecem fantasmas tenebrosos e aranhas gigantes; e um dia um misterioso aviso é escrito em letras brilhantes numa parede de Hogwarts: A CÂMARA DOS SEGREDOS FOI ABERTA. INIMIGOS DO HERDEIRO, CUIDADO.&lt;br /&gt;Mas o que isto significa? Harry Potter, Ron e Hermione vão fazer tudo para resolver este mistério, arriscando as suas próprias vidas.&lt;br /&gt;&lt;br /&gt;Recebeu já o Children's Book of the Year de 1999 e a medalha de ouro dos Nestlé Smarties Children's Book Awards.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:53:31 -0700 2012</date_added>
+  <date_updated>Wed Dec 31 09:19:43 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430968202]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430968202]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430968161</id>
+    <book>
+  <id type="integer">3484705</id>
+  <isbn>9722326805</isbn>
+  <isbn13>9789722326803</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tIYMLtU2JC-4N8x7MHgTRg</uri>
+  <title> Harry Potter e o Cálice de Fogo (Harry Potter, #4)</title>
+  <title_without_series>Harry Potter e o Cálice de Fogo</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1378941863m/3484705.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1378941863s/3484705.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3484705-harry-potter-e-o-c-lice-de-fogo</link>
+  <num_pages>591</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.54</average_rating>
+  <ratings_count>2002021</ratings_count>
+  <description>Harry Potter nem quer acreditar na sua sorte! Afinal não vai ter de aturar os Dursleys até ao início do seu quarto ano em Hogwarts. Graças à taça Mundial de Quidditch vai passar os últimos quinze dias de férias na companhia dos Weasleys e do seu amigo Ron. Mas a verdade é que nem tudo vai correr pelo melhor para o nosso herói. Quando Harry começa a sentir a sua cicatriz a doer terrivelmente, sabe que Lord Voldemort está de novo a rondá-lo e a ganhar poder. A marca da morte, que apareceu no céu, não pode significar outra coisa...Entretanto, este é um ano muito especial para Hogwarts, pois é lá que se irá realizar o célebre Torneio dos Três Feiticeiros, no qual Harry vai desempenhar um papel decisivo e que quase lhe irá custar a vida!! Pela segunda vez, Potter vê-se frente a frente com Voldemort, e ele sabe que o maior desejo do poderoso senhor das trevas é vê-lo morto...&lt;br /&gt;Outro livro maravilhoso!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>3046572</id>
+  <uri>kca://work/amzn1.gr.work.v1.USb5ObBtcLXUuC3i9aoelA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:53:25 -0700 2012</date_added>
+  <date_updated>Wed Dec 05 08:10:40 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430968161]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430968161]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430970728</id>
+    <book>
+  <id type="integer">7204923</id>
+  <isbn nil="true"/>
+  <isbn13>9789896710163</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hTyricr9GZd1fvQ0GoWuVA</uri>
+  <title>Novas Crónicas da Boca do Inferno</title>
+  <title_without_series>Novas Crónicas da Boca do Inferno</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1259359585m/7204923.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1259359585s/7204923.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7204923-novas-cr-nicas-da-boca-do-inferno</link>
+  <num_pages>222</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tinta da China Edições</publisher>
+  <publication_day/>
+  <publication_year>2009</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>298</ratings_count>
+  <description>«Toda a gente está convencida de que o IKEA vende móveis baratos, o que não é exactamente verdadeiro. O IKEA vende pilhas de tábuas e molhos de parafusos que, se tudo correr bem e Deus ajudar, depois de algum esforço hão-de transformar-se em móveis baratos. É uma espécie de Lego para adultos. Não digo que os móveis do IKEA não sejam baratos. O que digo é que não são móveis. Na altura em que os compramos, são um puzzle. A questão, portanto, é saber se o IKEA vende móveis baratos ou puzzles caros. Há dias, comprei no IKEA um móvel chamado Besta. Achei que combinava bem com a minha personalidade. Todo o material de que eu precisava e que tinha de levar até à caixa de pagamento pesava 600 quilos. Percebi melhor o nome do móvel. É preciso vir ao IKEA com uma besta de carga para carregar a tralha toda até à registadora. Este é um dos meus conselhos aos clientes do IKEA: não vá para lá sem duas ou três mulas. Eu alombei com a meia tonelada. O que poupei nos móveis, gastei no ortopedista. Neste momento, tenho 12 estantes e três hérnias.»</description>
+<authors>
+<author>
+<id>1071463</id>
+<name>Ricardo Araújo Pereira</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1316167009p5/1071463.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1316167009p2/1071463.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1071463.Ricardo_Ara_jo_Pereira]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>2345</ratings_count>
+<text_reviews_count>176</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>7919101</id>
+  <uri>kca://work/amzn1.gr.work.v1.n7dCXkHGBQQ6zR_JOOG68g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:58:23 -0700 2012</date_added>
+  <date_updated>Fri Nov 30 07:11:30 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430970728]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430970728]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430967548</id>
+    <book>
+  <id type="integer">3484669</id>
+  <isbn>9722326015</isbn>
+  <isbn13>9789722326018</isbn13>
+  <text_reviews_count type="integer">62</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IIPFmBLJNInG-RiqStYawQ</uri>
+  <title>Harry Potter e o Prisioneiro de Azkaban (Harry Potter, #3)</title>
+  <title_without_series>Harry Potter e o Prisioneiro de Azkaban</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1378941929m/3484669.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1378941929s/3484669.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3484669-harry-potter-e-o-prisioneiro-de-azkaban</link>
+  <num_pages>343</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.54</average_rating>
+  <ratings_count>2130079</ratings_count>
+  <description>Daquela vez Harry Potter não conseguira conter-se. Quebrara uma das regras principais de Hogwarts - não exercer técnicas de feitiçaria fora dos muros da escola. Mas aquela detestável Tia Marge merecia permanecer umas boas horas suspensa no tecto da sala dos Dursleys, inchada como um balão. Além disso já faltavam poucos dias para recomeçar as aulas. Mas o seu terceiro ano não irá ser fácil. Da prisão de Azkaban fugira o feroz Sirus Black, um dos mais fieis seguidores do assustador Lord Voldemort para o que Harry Potter continuava a ser o alvo favorito. O pior é que o herói de J. K. Rowling começa a suspeitar da existência de um traidor entre os seus próprios amigos... O regresso da personagem fantástica que está a conquistar leitores em todo o mundo numa aventura que te enfeitiçará até à última página.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:52:21 -0700 2012</date_added>
+  <date_updated>Wed Dec 05 08:09:34 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430967548]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430967548]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430968933</id>
+    <book>
+  <id type="integer">879188</id>
+  <isbn>9722100262</isbn>
+  <isbn13>9789722100267</isbn13>
+  <text_reviews_count type="integer">140</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UaOhpIMoFwENE670B2Ay5w</uri>
+  <title>Memorial do Convento</title>
+  <title_without_series>Memorial do Convento</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1298828846m/879188.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1298828846s/879188.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/879188.Memorial_do_Convento</link>
+  <num_pages>373</num_pages>
+  <format>Paperback</format>
+  <edition_information>Large print</edition_information>
+  <publisher>Editorial Caminho</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month/>
+  <average_rating>3.91</average_rating>
+  <ratings_count>12809</ratings_count>
+  <description>«Um romance histórico inovador. Personagem principal, o Convento de Mafra. O escritor aparta-se da descrição engessada, privilegiando a caracterização de uma época. Segue o estilo: "Era uma vez um rei que fez promessas de levantar um convento em Mafra... Era uma vez a gente que construiu esse convento... Era uma vez um soldado maneta e uma mulher que tinha poderes... Era uma vez um padre que queria voar e morreu doido". Tudo, "era uma vez...". Logo a começar por "D. João, quinto do nome na tabela real, irá esta noite ao quarto de sua mulher, D. Maria Ana Josefa, que chegou há mais de dois anos da Áustria para dar infantes à coroa portuguesa a até hoje ainda não emprenhou (...). Depois, a sobressair, essa espantosa personagem, Blimunda, ao encontro de Baltasar. Milhares de léguas andou Blimundo, e o romance correu mundo, na escrita e na ópera (numa adaptação do compositor italiano Azio Corghi). Para a nossa memória ficam essas duas personagens inesquecíveis, um Sete Sóis e o outro Sete Luas, a passearem o seu amor pelo Portugal violento e inquisitorial dos tristes tempos do rei D. João V.» (Diário de Notícias, 9 de outubro de 1998).</description>
+<authors>
+<author>
+<id>1285555</id>
+<name>José Saramago</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p5/1285555.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1497455560p2/1285555.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1285555.Jos_Saramago]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>310868</ratings_count>
+<text_reviews_count>25900</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1517</id>
+  <uri>kca://work/amzn1.gr.work.v1.2LNK6bJVBJjbKJk00rI0Og</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:54:48 -0700 2012</date_added>
+  <date_updated>Sat Sep 21 05:39:08 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430968933]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430968933]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>430968180</id>
+    <book>
+  <id type="integer">3484752</id>
+  <isbn>972233445X</isbn>
+  <isbn13>9789722334457</isbn13>
+  <text_reviews_count type="integer">53</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LFa_RDJsrdcirYP17K4Xuw</uri>
+  <title> Harry Potter e o Príncipe Misterioso (Harry Potter, #6)</title>
+  <title_without_series>Harry Potter e o Príncipe Misterioso</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1328010594m/3484752.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1328010594s/3484752.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3484752-harry-potter-e-o-pr-ncipe-misterioso</link>
+  <num_pages>509</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Editorial Presença</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>1921069</ratings_count>
+  <description>Voldemort está mesmo de volta! Esta é a terrível confirmação que agita o início do sexto ano na escola de feitiçaria de Hogwarts. O seu crescente poder maléfico, e do seu vasto exército de Devoradores da Morte, é cada vez mais visível, não só no mundo da Magia como no mundo dos Muggles. Agora, mais do que nunca, é necessário reunir forças para combater o mal, e, para isso, Harry e Dumbledore visitam o passado misterioso de Voldemort, e o coração da magia negra, e desvendam alguns segredos verdadeiramente espantosos. Mas são muitos mais os enigmas que Harry terá de resolver, entre eles, um muito em especial – quem é o príncipe misterioso a quem pertenceu o livro sobre poções que Harry recebeu e que revela conhecimentos poderosíssimos e letais? Poderá contar com ele como aliado ou será mais um inimigo a vencer? Neste penúltimo livro da série, as forças são testadas até ao limite, e Harry terá de apelar a toda a sua coragem e determinação para prosseguir na luta contra o poderoso senhor das trevas!... Será que vai conseguir?</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>19699793</ratings_count>
+<text_reviews_count>477582</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>41335427</id>
+  <uri>kca://work/amzn1.gr.work.v1.txipecnIYua0HbI4GhIAkA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="43536574" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at/>
+  <read_at/>
+  <date_added>Tue Oct 09 14:53:27 -0700 2012</date_added>
+  <date_updated>Wed Apr 30 03:52:33 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/430968180]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/430968180]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

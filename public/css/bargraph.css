@@ -1,0 +1,67 @@
+.q-graph {
+  display: block;
+  /* fixes layout wonkiness in FF1.5 */
+  position: relative;
+  min-width: 600px;
+  height: 230px;
+  margin: 1.1em 0 0;
+  padding: 0;
+  font-size: 12px;
+  text-align: center;
+}
+
+.q-graph caption {
+  caption-side: top;
+  min-width: 600px;
+  letter-spacing: .5px;
+  top: -35px;
+  /*position: relative;*/
+  z-index: 10;
+  padding: 5px 0px;
+}
+
+.q-graph tr, .q-graph th, .q-graph td {
+  position: absolute;
+  bottom: 0;
+  width: 145px;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.q-graph td {
+  transition: all .3s ease;
+}
+  .q-graph td:hover {
+    background-color: #00634C;
+    opacity: .9;
+    color: white;
+  }
+
+.q-graph tbody th {
+  bottom: -1.75em;
+  vertical-align: top;
+  font-weight: bold;
+  color: #333;
+}
+
+.q-graph .bar {
+  width: 40px; /* bar width */
+  min-height: 12px;
+  border: 1px solid;
+  border-bottom: none;
+  color: #fff; /* bar number color */
+}
+
+.q-graph .bar p {
+  margin: 5px 0 0;
+  padding: 0;
+  opacity: .4;
+}
+
+.q-graph .paid {
+  left: 50px; /* distance from left margin */
+  background-color: #00635d;
+  border-color: transparent;
+}

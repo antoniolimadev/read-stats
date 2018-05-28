@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[rEyzczUui8qQTaNmn2pxA]]></key>
+    <method><![CDATA[user_show]]></method>
+  </Request>
+  <user>
+  <id>13475528</id>
+  <name>Jorge Teixeira</name>
+  <user_name/>
+  <link><![CDATA[https://www.goodreads.com/user/show/13475528-jorge-teixeira]]></link>
+  <image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_111x148-e08b4682eea7088f8cdfd67c131d51cd.png]]></image_url>
+  <small_image_url><![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]></small_image_url>
+    <about/>
+    <age/>
+    <gender/>
+    <location>Coimbra, 07, Portugal</location>
+    <website/>
+    <joined>10/2012</joined>
+    <last_active>05/2018</last_active>
+    <interests/>
+    <favorite_books/>
+    <favorite_authors>
+    </favorite_authors>
+    <updates_rss_url><![CDATA[https://www.goodreads.com/user/updates_rss/13475528?key=rgS-oWEVAkNCQoYkLVpMpt62UmNh_eU5QcORBttDfEtQ3X9q]]></updates_rss_url>
+    <reviews_rss_url><![CDATA[https://www.goodreads.com/review/list_rss/13475528?key=rgS-oWEVAkNCQoYkLVpMpt62UmNh_eU5QcORBttDfEtQ3X9q&shelf=%23ALL%23]]></reviews_rss_url>
+    <friends_count type="integer">4</friends_count>
+    <groups_count>0</groups_count>
+    <reviews_count type="integer">113</reviews_count>
+    <user_shelves type="array">
+  <user_shelf>
+    <id type="integer">43536574</id>
+    <name>read</name>
+    <book_count type="integer">38</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields/>
+    <featured type="boolean">true</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">43536573</id>
+    <name>currently-reading</name>
+    <book_count type="integer">1</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort nil="true"/>
+    <order nil="true"/>
+    <per_page type="integer" nil="true"/>
+    <display_fields/>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">false</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+  <user_shelf>
+    <id type="integer">43536572</id>
+    <name>to-read</name>
+    <book_count type="integer">74</book_count>
+    <exclusive_flag type="boolean">true</exclusive_flag>
+    <description nil="true"/>
+    <sort/>
+    <order>a</order>
+    <per_page type="integer" nil="true"/>
+    <display_fields/>
+    <featured type="boolean">false</featured>
+    <recommend_for type="boolean">true</recommend_for>
+    <sticky type="boolean" nil="true"/>
+  </user_shelf>
+</user_shelves>
+      <updates type="array">
+      <update type="userstatus">
+      <action_text><![CDATA[is 72% done with <a href="https://www.goodreads.com/book/show/7332.The_Silmarillion">The Silmarillion</a>]]></action_text>
+      <link>https://www.goodreads.com/user_status/show/174223944</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Mon, 21 May 2018 23:13:12 -0700</updated_at>
+        <object>
+          <user_status>
+  <id type="integer">174223944</id>
+  <user_id type="integer">13475528</user_id>
+  <book_id type="integer">7332</book_id>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body/>
+  <created_at type="datetime">2018-05-22T06:13:12+00:00</created_at>
+  <updated_at type="datetime">2018-05-22T06:13:12+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">72</percent>
+  <work_id type="integer">4733799</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+  <review_id type="integer">430970174</review_id>
+  <book>
+    <id type="integer">7332</id>
+    <work_id type="integer">4733799</work_id>
+    <isbn>0618391118</isbn>
+    <isbn13>9780618391110</isbn13>
+    <title>The Silmarillion (Middle-Earth Universe)</title>
+    <sort_by_title>silmarillion (middle-earth universe), the</sort_by_title>
+    <author_id type="integer">656983</author_id>
+    <author_role nil="true"/>
+    <asin nil="true"/>
+    <description nil="true"/>
+    <format>Hardcover</format>
+    <publication_year type="integer">2004</publication_year>
+    <publication_month type="integer">11</publication_month>
+    <publication_day type="integer">15</publication_day>
+    <num_pages type="integer">386</num_pages>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+    <language_code>eng</language_code>
+    <edition_information nil="true"/>
+    <url nil="true"/>
+    <source_url nil="true"/>
+    <image_uploaded_at type="datetime">2012-05-08T18:43:03+00:00</image_uploaded_at>
+    <s3_image_at type="datetime">2015-05-16T14:51:03+00:00</s3_image_at>
+    <reviews_count type="integer">244738</reviews_count>
+    <ratings_sum type="integer">554002</ratings_sum>
+    <ratings_count type="integer">143395</ratings_count>
+    <text_reviews_count type="integer">4148</text_reviews_count>
+    <book_authors_count type="integer">2</book_authors_count>
+    <updated_at type="datetime">2017-12-13T04:46:45+00:00</updated_at>
+    <created_at type="datetime">2006-12-08T20:51:48+00:00</created_at>
+    <author_id_updater_user_id type="integer">2631425</author_id_updater_user_id>
+    <author_role_updater_user_id type="integer">3276709</author_role_updater_user_id>
+    <description_updater_user_id type="integer">66648866</description_updater_user_id>
+    <edition_information_updater_user_id type="integer" nil="true"/>
+    <format_updater_user_id type="integer">2001609</format_updater_user_id>
+    <image_updater_user_id type="integer">7428712</image_updater_user_id>
+    <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+    <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+    <language_updater_user_id type="integer">4723954</language_updater_user_id>
+    <num_pages_updater_user_id type="integer">5744897</num_pages_updater_user_id>
+    <publication_date_updater_user_id type="integer">-44</publication_date_updater_user_id>
+    <publisher_updater_user_id type="integer">-44</publisher_updater_user_id>
+    <title_updater_user_id type="integer">10682103</title_updater_user_id>
+    <url_updater_user_id type="integer" nil="true"/>
+    <title_language_code nil="true"/>
+    <publisher_language_code nil="true"/>
+    <description_language_code nil="true"/>
+    <asin_updater_user_id type="integer" nil="true"/>
+    <author>
+      <id type="integer">656983</id>
+      <name>J.R.R. Tolkien</name>
+      <updated_at type="datetime">2018-05-25T17:00:02+00:00</updated_at>
+      <created_at type="datetime">2007-06-30T02:55:36+00:00</created_at>
+      <searched_for_at type="datetime">2007-07-14T00:08:23+00:00</searched_for_at>
+      <image_uploaded_at type="datetime">2015-06-18T10:59:37+00:00</image_uploaded_at>
+      <user_id type="integer" nil="true"/>
+      <gender>M</gender>
+      <country_code>ZA</country_code>
+      <born_at type="date">1892-01-03</born_at>
+      <died_at type="date">1973-09-02</died_at>
+      <about>John Ronald Reuel Tolkien, CBE, was an English writer, poet, WWI veteran (a First Lieutenant in the Lancashire Fusiliers, British Army), philologist, and university professor, best known as the author of the high fantasy classic works &lt;i&gt;[b:The Hobbit|5907]&lt;/i&gt; and &lt;i&gt;[b:The Lord of the Rings|33]&lt;/i&gt;.
+
+Tolkien was Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford from 1925 to 1945, and Merton Professor of English language and literature from 1945 to 1959. He was a close friend of [a:C.S. Lewis|1069006].
+
+[a:Christopher Tolkien|9533] published a series of works based on his father's extensive notes and unpublished manuscripts, including &lt;i&gt;[b:The Silmarillion|7332]&lt;/i&gt;. These, together with &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt;, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about an imagined world called Arda, and Middle-earth within it. Between 1951 and 1955, Tolkien applied the word "legendarium" to the larger part of these writings. 
+
+While many other authors had published works of fantasy before Tolkien, the great success of &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt; led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the "father" of modern fantasy literature—or more precisely, high fantasy. Tolkien's writings have inspired many other works of fantasy and have had a lasting effect on the entire field.
+
+In 2008, &lt;i&gt;The Times&lt;/i&gt; ranked him sixth on a list of "The 50 greatest British writers since 1945". &lt;i&gt;Forbes&lt;/i&gt; ranked him the 5th top-earning dead celebrity in 2009.
+
+&lt;b&gt;Religious influences&lt;/b&gt;
+J.R.R. Tolkien, was born in South Africa in 1892, but his family moved to Britain when he was about 3 years old. When Tolkien was 8 years old, his mother converted to Catholicism, and he remained a Catholic throughout his life. In his last interview, two years before his death, he unhesitatingly testified, “I’m a devout Roman Catholic.” 
+
+Tolkien married his childhood sweetheart, Edith, and they had four children. He wrote them letters each year as if from Santa Claus, and a selection of these was published in 1976 as &lt;i&gt;[b:The Father Christmas Letters|7331]&lt;/i&gt;. One of Tolkien’s sons became a Catholic priest. Tolkien was an advisor for the translation of the &lt;i&gt;[b:Jerusalem Bible|108930]&lt;/i&gt;. 
+
+Tolkien once described &lt;i&gt;The Lord of the Rings&lt;/i&gt; to his friend Robert Murray, an English Jesuit priest, as "a fundamentally religious and Catholic work, unconsciously so at first, but consciously in the revision." There are many theological themes underlying the narrative including the battle of good versus evil, the triumph of humility over pride, and the activity of grace. In addition the saga includes themes which incorporate death and immortality, mercy and pity, resurrection, salvation, repentance, self-sacrifice, free will, justice, fellowship, authority and healing. In addition &lt;i&gt;The Lord's Prayer&lt;/i&gt; "And lead us not into temptation, but deliver us from evil" was reportedly present in Tolkien's mind as he described Frodo's struggles against the power of the "One Ring.''</about>
+      <uploader_user_id type="integer">1775679</uploader_user_id>
+      <image_copyright>open source</image_copyright>
+      <influences>Catholicism, Norse Mythology, Anglo-Saxon poetry, Finnish Mythology, [a:George MacDonald|2413], [a:William Morris|8127], [a:E.R. Eddison|1378543]</influences>
+      <url>http://www.tolkienestate.com/</url>
+      <genre1>Fantasy</genre1>
+      <genre2>Fiction</genre2>
+      <genre3>Children's</genre3>
+      <books_count type="integer">5551</books_count>
+      <reviews_count type="integer">9272170</reviews_count>
+      <ratings_sum type="integer">29167675</ratings_sum>
+      <works_count type="integer">366</works_count>
+      <hometown>Bloemfontein, Mangaung, Free State</hometown>
+      <rating_dist>5:552711|4:321447|3:169840|2:52081|1:33064|total:1129143</rating_dist>
+      <s3_image_at type="datetime" nil="true"/>
+      <ratings_count type="integer">6761980</ratings_count>
+      <text_reviews_count type="integer">102378</text_reviews_count>
+      <author_program_at type="datetime" nil="true"/>
+      <postal_code nil="true"/>
+      <fanships_count type="integer">36938</fanships_count>
+      <best_book_id type="integer">5907</best_book_id>
+      <name_language_code nil="true"/>
+      <sort_by_name>tolkien, j.r.r.</sort_by_name>
+      <shelf_display_name>Tolkien, J.R.R.</shelf_display_name>
+      <gender_custom nil="true"/>
+      <gender_pronoun nil="true"/>
+    </author>
+  </book>
+</user_status>
+        </object>
+    </update>
+      <update type="userstatus">
+      <action_text><![CDATA[is 57% done with <a href="https://www.goodreads.com/book/show/7332.The_Silmarillion">The Silmarillion</a>]]></action_text>
+      <link>https://www.goodreads.com/user_status/show/172968485</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Thu, 10 May 2018 23:17:18 -0700</updated_at>
+        <object>
+          <user_status>
+  <id type="integer">172968485</id>
+  <user_id type="integer">13475528</user_id>
+  <book_id type="integer">7332</book_id>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body/>
+  <created_at type="datetime">2018-05-11T06:17:18+00:00</created_at>
+  <updated_at type="datetime">2018-05-11T06:17:18+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">57</percent>
+  <work_id type="integer">4733799</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+  <review_id type="integer">430970174</review_id>
+  <book>
+    <id type="integer">7332</id>
+    <work_id type="integer">4733799</work_id>
+    <isbn>0618391118</isbn>
+    <isbn13>9780618391110</isbn13>
+    <title>The Silmarillion (Middle-Earth Universe)</title>
+    <sort_by_title>silmarillion (middle-earth universe), the</sort_by_title>
+    <author_id type="integer">656983</author_id>
+    <author_role nil="true"/>
+    <asin nil="true"/>
+    <description nil="true"/>
+    <format>Hardcover</format>
+    <publication_year type="integer">2004</publication_year>
+    <publication_month type="integer">11</publication_month>
+    <publication_day type="integer">15</publication_day>
+    <num_pages type="integer">386</num_pages>
+    <publisher>Houghton Mifflin Harcourt</publisher>
+    <language_code>eng</language_code>
+    <edition_information nil="true"/>
+    <url nil="true"/>
+    <source_url nil="true"/>
+    <image_uploaded_at type="datetime">2012-05-08T18:43:03+00:00</image_uploaded_at>
+    <s3_image_at type="datetime">2015-05-16T14:51:03+00:00</s3_image_at>
+    <reviews_count type="integer">244738</reviews_count>
+    <ratings_sum type="integer">554002</ratings_sum>
+    <ratings_count type="integer">143395</ratings_count>
+    <text_reviews_count type="integer">4148</text_reviews_count>
+    <book_authors_count type="integer">2</book_authors_count>
+    <updated_at type="datetime">2017-12-13T04:46:45+00:00</updated_at>
+    <created_at type="datetime">2006-12-08T20:51:48+00:00</created_at>
+    <author_id_updater_user_id type="integer">2631425</author_id_updater_user_id>
+    <author_role_updater_user_id type="integer">3276709</author_role_updater_user_id>
+    <description_updater_user_id type="integer">66648866</description_updater_user_id>
+    <edition_information_updater_user_id type="integer" nil="true"/>
+    <format_updater_user_id type="integer">2001609</format_updater_user_id>
+    <image_updater_user_id type="integer">7428712</image_updater_user_id>
+    <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+    <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+    <language_updater_user_id type="integer">4723954</language_updater_user_id>
+    <num_pages_updater_user_id type="integer">5744897</num_pages_updater_user_id>
+    <publication_date_updater_user_id type="integer">-44</publication_date_updater_user_id>
+    <publisher_updater_user_id type="integer">-44</publisher_updater_user_id>
+    <title_updater_user_id type="integer">10682103</title_updater_user_id>
+    <url_updater_user_id type="integer" nil="true"/>
+    <title_language_code nil="true"/>
+    <publisher_language_code nil="true"/>
+    <description_language_code nil="true"/>
+    <asin_updater_user_id type="integer" nil="true"/>
+    <author>
+      <id type="integer">656983</id>
+      <name>J.R.R. Tolkien</name>
+      <updated_at type="datetime">2018-05-25T17:00:02+00:00</updated_at>
+      <created_at type="datetime">2007-06-30T02:55:36+00:00</created_at>
+      <searched_for_at type="datetime">2007-07-14T00:08:23+00:00</searched_for_at>
+      <image_uploaded_at type="datetime">2015-06-18T10:59:37+00:00</image_uploaded_at>
+      <user_id type="integer" nil="true"/>
+      <gender>M</gender>
+      <country_code>ZA</country_code>
+      <born_at type="date">1892-01-03</born_at>
+      <died_at type="date">1973-09-02</died_at>
+      <about>John Ronald Reuel Tolkien, CBE, was an English writer, poet, WWI veteran (a First Lieutenant in the Lancashire Fusiliers, British Army), philologist, and university professor, best known as the author of the high fantasy classic works &lt;i&gt;[b:The Hobbit|5907]&lt;/i&gt; and &lt;i&gt;[b:The Lord of the Rings|33]&lt;/i&gt;.
+
+Tolkien was Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford from 1925 to 1945, and Merton Professor of English language and literature from 1945 to 1959. He was a close friend of [a:C.S. Lewis|1069006].
+
+[a:Christopher Tolkien|9533] published a series of works based on his father's extensive notes and unpublished manuscripts, including &lt;i&gt;[b:The Silmarillion|7332]&lt;/i&gt;. These, together with &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt;, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about an imagined world called Arda, and Middle-earth within it. Between 1951 and 1955, Tolkien applied the word "legendarium" to the larger part of these writings. 
+
+While many other authors had published works of fantasy before Tolkien, the great success of &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt; led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the "father" of modern fantasy literature—or more precisely, high fantasy. Tolkien's writings have inspired many other works of fantasy and have had a lasting effect on the entire field.
+
+In 2008, &lt;i&gt;The Times&lt;/i&gt; ranked him sixth on a list of "The 50 greatest British writers since 1945". &lt;i&gt;Forbes&lt;/i&gt; ranked him the 5th top-earning dead celebrity in 2009.
+
+&lt;b&gt;Religious influences&lt;/b&gt;
+J.R.R. Tolkien, was born in South Africa in 1892, but his family moved to Britain when he was about 3 years old. When Tolkien was 8 years old, his mother converted to Catholicism, and he remained a Catholic throughout his life. In his last interview, two years before his death, he unhesitatingly testified, “I’m a devout Roman Catholic.” 
+
+Tolkien married his childhood sweetheart, Edith, and they had four children. He wrote them letters each year as if from Santa Claus, and a selection of these was published in 1976 as &lt;i&gt;[b:The Father Christmas Letters|7331]&lt;/i&gt;. One of Tolkien’s sons became a Catholic priest. Tolkien was an advisor for the translation of the &lt;i&gt;[b:Jerusalem Bible|108930]&lt;/i&gt;. 
+
+Tolkien once described &lt;i&gt;The Lord of the Rings&lt;/i&gt; to his friend Robert Murray, an English Jesuit priest, as "a fundamentally religious and Catholic work, unconsciously so at first, but consciously in the revision." There are many theological themes underlying the narrative including the battle of good versus evil, the triumph of humility over pride, and the activity of grace. In addition the saga includes themes which incorporate death and immortality, mercy and pity, resurrection, salvation, repentance, self-sacrifice, free will, justice, fellowship, authority and healing. In addition &lt;i&gt;The Lord's Prayer&lt;/i&gt; "And lead us not into temptation, but deliver us from evil" was reportedly present in Tolkien's mind as he described Frodo's struggles against the power of the "One Ring.''</about>
+      <uploader_user_id type="integer">1775679</uploader_user_id>
+      <image_copyright>open source</image_copyright>
+      <influences>Catholicism, Norse Mythology, Anglo-Saxon poetry, Finnish Mythology, [a:George MacDonald|2413], [a:William Morris|8127], [a:E.R. Eddison|1378543]</influences>
+      <url>http://www.tolkienestate.com/</url>
+      <genre1>Fantasy</genre1>
+      <genre2>Fiction</genre2>
+      <genre3>Children's</genre3>
+      <books_count type="integer">5551</books_count>
+      <reviews_count type="integer">9272170</reviews_count>
+      <ratings_sum type="integer">29167675</ratings_sum>
+      <works_count type="integer">366</works_count>
+      <hometown>Bloemfontein, Mangaung, Free State</hometown>
+      <rating_dist>5:552711|4:321447|3:169840|2:52081|1:33064|total:1129143</rating_dist>
+      <s3_image_at type="datetime" nil="true"/>
+      <ratings_count type="integer">6761980</ratings_count>
+      <text_reviews_count type="integer">102378</text_reviews_count>
+      <author_program_at type="datetime" nil="true"/>
+      <postal_code nil="true"/>
+      <fanships_count type="integer">36938</fanships_count>
+      <best_book_id type="integer">5907</best_book_id>
+      <name_language_code nil="true"/>
+      <sort_by_name>tolkien, j.r.r.</sort_by_name>
+      <shelf_display_name>Tolkien, J.R.R.</shelf_display_name>
+      <gender_custom nil="true"/>
+      <gender_pronoun nil="true"/>
+    </author>
+  </book>
+</user_status>
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2370737792">Dragon's Egg</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2323571440</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Mon, 23 Apr 2018 14:25:56 -0700</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2323571440</id>
+  <review_id type="integer">2370737792</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2018-04-23T21:25:56+00:00</updated_at>
+  <review>
+    <id type="integer">2370737792</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">263466</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2018-04-23T21:25:56+00:00</updated_at>
+    <created_at type="datetime">2018-04-23T21:25:56+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes nil="true"/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">2530528</work_id>
+    <read_count type="integer">0</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-04-23T21:25:56+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">263466</id>
+      <work_id type="integer">2530528</work_id>
+      <isbn>034543529X</isbn>
+      <isbn13>9780345435293</isbn13>
+      <title>Dragon's Egg</title>
+      <sort_by_title>dragon's egg</sort_by_title>
+      <author_id type="integer">153889</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>&lt;b&gt;"In science fiction there is only a handful of books that stretch the mind--and this is one of them."--Arthur C. Clarke&lt;/b&gt;&lt;br&gt;&lt;b&gt; &lt;/b&gt;&lt;br&gt; In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent lifeforms--the cheela--living on Dragon's Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time, men are their diligent teachers.
+
+&lt;b&gt;Praise for &lt;i&gt;Dragon's Egg&lt;/i&gt;&lt;/b&gt;
+
+"Bob Forward writes in the tradition of Hal Clement's &lt;i&gt;Mission of Gravity&lt;/i&gt; and carries it a giant step (how else?) forward."&lt;b&gt;--Isaac Asimov &lt;/b&gt;
+
+"&lt;i&gt;Dragon's Egg&lt;/i&gt; is superb. I couldn't have written it; it required too much real physics."&lt;b&gt;--Larry Niven &lt;/b&gt;
+
+"This is one for the real science-fiction fan."&lt;b&gt;--Frank Herbert&lt;/b&gt;
+
+"Robert L. Forward tells a good story and asks a profound question. If we run into a race of creatures who live a hundred years while we live an hour, what can they say to us or we to them?"&lt;b&gt;--Freeman J. Dyson&lt;/b&gt;
+
+"Forward has impeccable scientific credentials, and . . . big, original, speculative ideas."&lt;b&gt;--&lt;i&gt;The Washington Post&lt;/i&gt;&lt;/b&gt;</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2000</publication_year>
+      <publication_month type="integer">2</publication_month>
+      <publication_day type="integer">29</publication_day>
+      <num_pages type="integer">352</num_pages>
+      <publisher>Del Rey Books</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2014-06-19T08:33:45+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-05-16T15:28:57+00:00</s3_image_at>
+      <reviews_count type="integer">9648</reviews_count>
+      <ratings_sum type="integer">19280</ratings_sum>
+      <ratings_count type="integer">4653</ratings_count>
+      <text_reviews_count type="integer">221</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2017-07-09T23:00:45+00:00</updated_at>
+      <created_at type="datetime">2007-03-07T04:13:29+00:00</created_at>
+      <author_id_updater_user_id type="integer">-51</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">-51</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">-51</format_updater_user_id>
+      <image_updater_user_id type="integer">-51</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-51</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-50</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">6490640</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">-51</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-51</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-51</publisher_updater_user_id>
+      <title_updater_user_id type="integer">-51</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">153889</id>
+        <name>Robert L. Forward</name>
+        <updated_at type="datetime">2018-05-25T02:49:43+00:00</updated_at>
+        <created_at type="datetime">2007-03-07T04:13:28+00:00</created_at>
+        <searched_for_at type="datetime">2007-04-28T20:31:55+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2009-02-14T20:01:13+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>US</country_code>
+        <born_at type="date">1932-08-15</born_at>
+        <died_at type="date">2002-09-21</died_at>
+        <about>Robert Lull Forward, commonly known as Robert L. Forward, (August 15, 1932 - September 21, 2002) was an American physicist and science fiction writer. His fiction is noted for its scientific credibility, and uses many ideas developed during his work as an aerospace engineer.
+
+</about>
+        <uploader_user_id type="integer">1391679</uploader_user_id>
+        <image_copyright>http://www.fantasticfiction.co.uk/f/robert-l-forward/</image_copyright>
+        <influences/>
+        <url/>
+        <genre1>Science fiction</genre1>
+        <genre2>Fantasy</genre2>
+        <genre3/>
+        <books_count type="integer">79</books_count>
+        <reviews_count type="integer">17891</reviews_count>
+        <ratings_sum type="integer">34387</ratings_sum>
+        <works_count type="integer">31</works_count>
+        <hometown>Geneva, New York</hometown>
+        <rating_dist>5:82|4:133|3:103|2:27|1:14|total:359</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:23:15+00:00</s3_image_at>
+        <ratings_count type="integer">8557</ratings_count>
+        <text_reviews_count type="integer">464</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">52</fanships_count>
+        <best_book_id type="integer">263466</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>forward, robert l.</sort_by_name>
+        <shelf_display_name>Forward, Robert L.</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[is currently reading <a only_path="false" href="https://www.goodreads.com/review/show/430970174">The Silmarillion (Middle-Earth Universe)</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2285759021</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Wed, 28 Mar 2018 02:33:25 -0700</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2285759021</id>
+  <review_id type="integer">430970174</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>currently-reading</status>
+  <updated_at type="datetime">2018-03-28T09:33:25+00:00</updated_at>
+  <review>
+    <id type="integer">430970174</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">7332</book_id>
+    <rating type="integer">0</rating>
+    <read_status>currently-reading</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2018-03-28T09:33:25+00:00</updated_at>
+    <created_at type="datetime">2012-10-09T21:57:13+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes nil="true"/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">4733799</work_id>
+    <read_count type="integer">1</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime">2018-03-28T09:33:25+00:00</started_at>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-28T09:33:25+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">7332</id>
+      <work_id type="integer">4733799</work_id>
+      <isbn>0618391118</isbn>
+      <isbn13>9780618391110</isbn13>
+      <title>The Silmarillion (Middle-Earth Universe)</title>
+      <sort_by_title>silmarillion (middle-earth universe), the</sort_by_title>
+      <author_id type="integer">656983</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Hardcover</format>
+      <publication_year type="integer">2004</publication_year>
+      <publication_month type="integer">11</publication_month>
+      <publication_day type="integer">15</publication_day>
+      <num_pages type="integer">386</num_pages>
+      <publisher>Houghton Mifflin Harcourt</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2012-05-08T18:43:03+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-05-16T14:51:03+00:00</s3_image_at>
+      <reviews_count type="integer">244738</reviews_count>
+      <ratings_sum type="integer">554002</ratings_sum>
+      <ratings_count type="integer">143395</ratings_count>
+      <text_reviews_count type="integer">4148</text_reviews_count>
+      <book_authors_count type="integer">2</book_authors_count>
+      <updated_at type="datetime">2017-12-13T04:46:45+00:00</updated_at>
+      <created_at type="datetime">2006-12-08T20:51:48+00:00</created_at>
+      <author_id_updater_user_id type="integer">2631425</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">3276709</author_role_updater_user_id>
+      <description_updater_user_id type="integer">66648866</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">2001609</format_updater_user_id>
+      <image_updater_user_id type="integer">7428712</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-44</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-44</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4723954</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">5744897</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-44</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-44</publisher_updater_user_id>
+      <title_updater_user_id type="integer">10682103</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">656983</id>
+        <name>J.R.R. Tolkien</name>
+        <updated_at type="datetime">2018-05-25T17:00:02+00:00</updated_at>
+        <created_at type="datetime">2007-06-30T02:55:36+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-14T00:08:23+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2015-06-18T10:59:37+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>ZA</country_code>
+        <born_at type="date">1892-01-03</born_at>
+        <died_at type="date">1973-09-02</died_at>
+        <about>John Ronald Reuel Tolkien, CBE, was an English writer, poet, WWI veteran (a First Lieutenant in the Lancashire Fusiliers, British Army), philologist, and university professor, best known as the author of the high fantasy classic works &lt;i&gt;[b:The Hobbit|5907]&lt;/i&gt; and &lt;i&gt;[b:The Lord of the Rings|33]&lt;/i&gt;.
+
+Tolkien was Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford from 1925 to 1945, and Merton Professor of English language and literature from 1945 to 1959. He was a close friend of [a:C.S. Lewis|1069006].
+
+[a:Christopher Tolkien|9533] published a series of works based on his father's extensive notes and unpublished manuscripts, including &lt;i&gt;[b:The Silmarillion|7332]&lt;/i&gt;. These, together with &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt;, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about an imagined world called Arda, and Middle-earth within it. Between 1951 and 1955, Tolkien applied the word "legendarium" to the larger part of these writings. 
+
+While many other authors had published works of fantasy before Tolkien, the great success of &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt; led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the "father" of modern fantasy literature—or more precisely, high fantasy. Tolkien's writings have inspired many other works of fantasy and have had a lasting effect on the entire field.
+
+In 2008, &lt;i&gt;The Times&lt;/i&gt; ranked him sixth on a list of "The 50 greatest British writers since 1945". &lt;i&gt;Forbes&lt;/i&gt; ranked him the 5th top-earning dead celebrity in 2009.
+
+&lt;b&gt;Religious influences&lt;/b&gt;
+J.R.R. Tolkien, was born in South Africa in 1892, but his family moved to Britain when he was about 3 years old. When Tolkien was 8 years old, his mother converted to Catholicism, and he remained a Catholic throughout his life. In his last interview, two years before his death, he unhesitatingly testified, “I’m a devout Roman Catholic.” 
+
+Tolkien married his childhood sweetheart, Edith, and they had four children. He wrote them letters each year as if from Santa Claus, and a selection of these was published in 1976 as &lt;i&gt;[b:The Father Christmas Letters|7331]&lt;/i&gt;. One of Tolkien’s sons became a Catholic priest. Tolkien was an advisor for the translation of the &lt;i&gt;[b:Jerusalem Bible|108930]&lt;/i&gt;. 
+
+Tolkien once described &lt;i&gt;The Lord of the Rings&lt;/i&gt; to his friend Robert Murray, an English Jesuit priest, as "a fundamentally religious and Catholic work, unconsciously so at first, but consciously in the revision." There are many theological themes underlying the narrative including the battle of good versus evil, the triumph of humility over pride, and the activity of grace. In addition the saga includes themes which incorporate death and immortality, mercy and pity, resurrection, salvation, repentance, self-sacrifice, free will, justice, fellowship, authority and healing. In addition &lt;i&gt;The Lord's Prayer&lt;/i&gt; "And lead us not into temptation, but deliver us from evil" was reportedly present in Tolkien's mind as he described Frodo's struggles against the power of the "One Ring.''</about>
+        <uploader_user_id type="integer">1775679</uploader_user_id>
+        <image_copyright>open source</image_copyright>
+        <influences>Catholicism, Norse Mythology, Anglo-Saxon poetry, Finnish Mythology, [a:George MacDonald|2413], [a:William Morris|8127], [a:E.R. Eddison|1378543]</influences>
+        <url>http://www.tolkienestate.com/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Fiction</genre2>
+        <genre3>Children's</genre3>
+        <books_count type="integer">5551</books_count>
+        <reviews_count type="integer">9272170</reviews_count>
+        <ratings_sum type="integer">29167675</ratings_sum>
+        <works_count type="integer">366</works_count>
+        <hometown>Bloemfontein, Mangaung, Free State</hometown>
+        <rating_dist>5:552711|4:321447|3:169840|2:52081|1:33064|total:1129143</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">6761980</ratings_count>
+        <text_reviews_count type="integer">102378</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">36938</fanships_count>
+        <best_book_id type="integer">5907</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>tolkien, j.r.r.</sort_by_name>
+        <shelf_display_name>Tolkien, J.R.R.</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2342227850">Beren and Lúthien</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2285758802</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Wed, 28 Mar 2018 02:32:55 -0700</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2285758802</id>
+  <review_id type="integer">2342227850</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2018-03-28T09:32:55+00:00</updated_at>
+  <review>
+    <id type="integer">2342227850</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">32708664</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2018-03-28T09:32:55+00:00</updated_at>
+    <created_at type="datetime">2018-03-28T09:32:55+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes nil="true"/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">53286704</work_id>
+    <read_count type="integer">0</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-28T09:32:55+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">32708664</id>
+      <work_id type="integer">53286704</work_id>
+      <isbn>0008214190</isbn>
+      <isbn13>9780008214197</isbn13>
+      <title>Beren and Lúthien</title>
+      <sort_by_title>beren and lúthien</sort_by_title>
+      <author_id type="integer">656983</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Hardcover</format>
+      <publication_year type="integer">2017</publication_year>
+      <publication_month type="integer">6</publication_month>
+      <publication_day type="integer">1</publication_day>
+      <num_pages type="integer">288</num_pages>
+      <publisher>HarperCollins</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2016-10-20T16:15:47+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2016-10-20T16:15:52+00:00</s3_image_at>
+      <reviews_count type="integer">12921</reviews_count>
+      <ratings_sum type="integer">9014</ratings_sum>
+      <ratings_count type="integer">2235</ratings_count>
+      <text_reviews_count type="integer">377</text_reviews_count>
+      <book_authors_count type="integer">2</book_authors_count>
+      <updated_at type="datetime">2017-12-25T17:25:48+00:00</updated_at>
+      <created_at type="datetime">2016-10-19T22:55:30+00:00</created_at>
+      <author_id_updater_user_id type="integer">53108847</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">66648866</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">53108847</format_updater_user_id>
+      <image_updater_user_id type="integer">1986715</image_updater_user_id>
+      <isbn_updater_user_id type="integer">53108847</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">53108847</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">27788046</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">5136858</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">5136858</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">53108847</publisher_updater_user_id>
+      <title_updater_user_id type="integer">53108847</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">656983</id>
+        <name>J.R.R. Tolkien</name>
+        <updated_at type="datetime">2018-05-25T17:00:02+00:00</updated_at>
+        <created_at type="datetime">2007-06-30T02:55:36+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-14T00:08:23+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2015-06-18T10:59:37+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>ZA</country_code>
+        <born_at type="date">1892-01-03</born_at>
+        <died_at type="date">1973-09-02</died_at>
+        <about>John Ronald Reuel Tolkien, CBE, was an English writer, poet, WWI veteran (a First Lieutenant in the Lancashire Fusiliers, British Army), philologist, and university professor, best known as the author of the high fantasy classic works &lt;i&gt;[b:The Hobbit|5907]&lt;/i&gt; and &lt;i&gt;[b:The Lord of the Rings|33]&lt;/i&gt;.
+
+Tolkien was Rawlinson and Bosworth Professor of Anglo-Saxon at Oxford from 1925 to 1945, and Merton Professor of English language and literature from 1945 to 1959. He was a close friend of [a:C.S. Lewis|1069006].
+
+[a:Christopher Tolkien|9533] published a series of works based on his father's extensive notes and unpublished manuscripts, including &lt;i&gt;[b:The Silmarillion|7332]&lt;/i&gt;. These, together with &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt;, form a connected body of tales, poems, fictional histories, invented languages, and literary essays about an imagined world called Arda, and Middle-earth within it. Between 1951 and 1955, Tolkien applied the word "legendarium" to the larger part of these writings. 
+
+While many other authors had published works of fantasy before Tolkien, the great success of &lt;i&gt;The Hobbit&lt;/i&gt; and &lt;i&gt;The Lord of the Rings&lt;/i&gt; led directly to a popular resurgence of the genre. This has caused Tolkien to be popularly identified as the "father" of modern fantasy literature—or more precisely, high fantasy. Tolkien's writings have inspired many other works of fantasy and have had a lasting effect on the entire field.
+
+In 2008, &lt;i&gt;The Times&lt;/i&gt; ranked him sixth on a list of "The 50 greatest British writers since 1945". &lt;i&gt;Forbes&lt;/i&gt; ranked him the 5th top-earning dead celebrity in 2009.
+
+&lt;b&gt;Religious influences&lt;/b&gt;
+J.R.R. Tolkien, was born in South Africa in 1892, but his family moved to Britain when he was about 3 years old. When Tolkien was 8 years old, his mother converted to Catholicism, and he remained a Catholic throughout his life. In his last interview, two years before his death, he unhesitatingly testified, “I’m a devout Roman Catholic.” 
+
+Tolkien married his childhood sweetheart, Edith, and they had four children. He wrote them letters each year as if from Santa Claus, and a selection of these was published in 1976 as &lt;i&gt;[b:The Father Christmas Letters|7331]&lt;/i&gt;. One of Tolkien’s sons became a Catholic priest. Tolkien was an advisor for the translation of the &lt;i&gt;[b:Jerusalem Bible|108930]&lt;/i&gt;. 
+
+Tolkien once described &lt;i&gt;The Lord of the Rings&lt;/i&gt; to his friend Robert Murray, an English Jesuit priest, as "a fundamentally religious and Catholic work, unconsciously so at first, but consciously in the revision." There are many theological themes underlying the narrative including the battle of good versus evil, the triumph of humility over pride, and the activity of grace. In addition the saga includes themes which incorporate death and immortality, mercy and pity, resurrection, salvation, repentance, self-sacrifice, free will, justice, fellowship, authority and healing. In addition &lt;i&gt;The Lord's Prayer&lt;/i&gt; "And lead us not into temptation, but deliver us from evil" was reportedly present in Tolkien's mind as he described Frodo's struggles against the power of the "One Ring.''</about>
+        <uploader_user_id type="integer">1775679</uploader_user_id>
+        <image_copyright>open source</image_copyright>
+        <influences>Catholicism, Norse Mythology, Anglo-Saxon poetry, Finnish Mythology, [a:George MacDonald|2413], [a:William Morris|8127], [a:E.R. Eddison|1378543]</influences>
+        <url>http://www.tolkienestate.com/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Fiction</genre2>
+        <genre3>Children's</genre3>
+        <books_count type="integer">5551</books_count>
+        <reviews_count type="integer">9272170</reviews_count>
+        <ratings_sum type="integer">29167675</ratings_sum>
+        <works_count type="integer">366</works_count>
+        <hometown>Bloemfontein, Mangaung, Free State</hometown>
+        <rating_dist>5:552711|4:321447|3:169840|2:52081|1:33064|total:1129143</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">6761980</ratings_count>
+        <text_reviews_count type="integer">102378</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">36938</fanships_count>
+        <best_book_id type="integer">5907</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>tolkien, j.r.r.</sort_by_name>
+        <shelf_display_name>Tolkien, J.R.R.</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2329148236">Sapiens: A Brief History of Humankind</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2268377722</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Fri, 16 Mar 2018 01:05:10 -0700</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2268377722</id>
+  <review_id type="integer">2329148236</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2018-03-16T08:05:10+00:00</updated_at>
+  <review>
+    <id type="integer">2329148236</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">23692271</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2018-03-16T08:05:10+00:00</updated_at>
+    <created_at type="datetime">2018-03-16T08:05:09+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes nil="true"/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">18962767</work_id>
+    <read_count type="integer">0</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-16T08:05:10+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">23692271</id>
+      <work_id type="integer">18962767</work_id>
+      <isbn nil="true"/>
+      <isbn13 nil="true"/>
+      <title>Sapiens: A Brief History of Humankind</title>
+      <sort_by_title>sapiens: a brief history of humankind</sort_by_title>
+      <author_id type="integer">395812</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description nil="true"/>
+      <format>Paperback</format>
+      <publication_year type="integer">2014</publication_year>
+      <publication_month type="integer" nil="true"/>
+      <publication_day type="integer" nil="true"/>
+      <num_pages type="integer">443</num_pages>
+      <publisher>Harvill Secker</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2015-01-06T23:12:34+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2015-06-16T07:59:34+00:00</s3_image_at>
+      <reviews_count type="integer">292075</reviews_count>
+      <ratings_sum type="integer">424813</ratings_sum>
+      <ratings_count type="integer">95793</ratings_count>
+      <text_reviews_count type="integer">8995</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2017-10-19T19:56:15+00:00</updated_at>
+      <created_at type="datetime">2014-12-06T05:47:47+00:00</created_at>
+      <author_id_updater_user_id type="integer">19278089</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer" nil="true"/>
+      <description_updater_user_id type="integer">6355728</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">19278089</format_updater_user_id>
+      <image_updater_user_id type="integer">3373829</image_updater_user_id>
+      <isbn_updater_user_id type="integer">66811625</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer" nil="true"/>
+      <language_updater_user_id type="integer">19278089</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">19278089</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">19278089</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">19278089</publisher_updater_user_id>
+      <title_updater_user_id type="integer">777924</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">395812</id>
+        <name>Yuval Noah Harari</name>
+        <updated_at type="datetime">2018-05-25T14:19:33+00:00</updated_at>
+        <created_at type="datetime">2007-05-01T01:08:55+00:00</created_at>
+        <searched_for_at type="datetime">2008-08-16T18:24:14+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2017-09-21T06:22:46+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>IL</country_code>
+        <born_at type="datetime" nil="true"/>
+        <died_at type="datetime" nil="true"/>
+        <about>Professor Harari was born in Haifa, Israel, to Lebanese parents in 1976. He received his Ph.D. from the University of Oxford in 2002, and is now a lecturer at the Department of History, the Hebrew University of Jerusalem. 
+
+He specialized in World History, medieval history and military history. His current research focuses on macro-historical questions: What is the relation between history and biology? What is the essential difference between Homo sapiens and other animals? Is there justice in history? Does history have a direction? Did people become happier as history unfolded?
+
+Prof. Harari also teaches a MOOC (Massive Open Online Course) titled A Brief History of Humankind.
+
+Prof. Harari twice won the Polonsky Prize for Creativity and Originality, in 2009 and 2012. In 2011 he won the Society for Military History’s Moncado Award for outstanding articles in military history. </about>
+        <uploader_user_id type="integer">4318144</uploader_user_id>
+        <image_copyright>https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a3683d72e78df0dfd69139688b14900ec498fc8f_254x191.jpg?</image_copyright>
+        <influences/>
+        <url>http://www.ynharari.com/</url>
+        <genre1>History</genre1>
+        <genre2/>
+        <genre3/>
+        <books_count type="integer">370</books_count>
+        <reviews_count type="integer">505937</reviews_count>
+        <ratings_sum type="integer">744679</ratings_sum>
+        <works_count type="integer">18</works_count>
+        <hometown/>
+        <rating_dist>4:1|3:1|total:2</rating_dist>
+        <s3_image_at type="datetime" nil="true"/>
+        <ratings_count type="integer">168676</ratings_count>
+        <text_reviews_count type="integer">15407</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">46</fanships_count>
+        <best_book_id type="integer">23692271</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>harari, yuval noah</sort_by_name>
+        <shelf_display_name>Harari, Yuval Noah</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[wants to read <a only_path="false" href="https://www.goodreads.com/review/show/2316387234">Season of Storms (The Witcher #0)</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2251502992</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Sun, 04 Mar 2018 11:27:23 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2251502992</id>
+  <review_id type="integer">2316387234</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>to-read</status>
+  <updated_at type="datetime">2018-03-04T19:27:23+00:00</updated_at>
+  <review>
+    <id type="integer">2316387234</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">36099978</book_id>
+    <rating type="integer">0</rating>
+    <read_status>to-read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review nil="true"/>
+    <recommendation nil="true"/>
+    <read_at type="datetime" nil="true"/>
+    <updated_at type="datetime">2018-03-04T19:27:22+00:00</updated_at>
+    <created_at type="datetime">2018-03-04T19:27:22+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes nil="true"/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1 nil="true"/>
+    <work_id type="integer">26575985</work_id>
+    <read_count type="integer">0</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime" nil="true"/>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-04T19:27:22+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">36099978</id>
+      <work_id type="integer">26575985</work_id>
+      <isbn>0316441635</isbn>
+      <isbn13>9780316441636</isbn13>
+      <title>Season of Storms (The Witcher #0)</title>
+      <sort_by_title>season of storms (the witcher #0)</sort_by_title>
+      <author_id type="integer">38569</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>&lt;b&gt;The &lt;i&gt;New York Times&lt;/i&gt; bestselling series that inspired the Witcher video games.&lt;/b&gt;
+
+Geralt of Rivia. A witcher whose mission is to protect ordinary people from the monsters created with magic. A mutant who has the task of killing unnatural beings. He uses a magical sign, potions and the pride of every witcher -- two swords, steel and silver. But what would happen if Geralt lost his weapons? &lt;br&gt;&lt;br&gt;
+
+In this standalone novel, Geralt fights, travels and loves again, Dandelion sings and flies from trouble to trouble, sorcerers are scheming ... and across the whole world clouds are gathering - the season of storms is coming...
+
+
+&lt;br&gt;&lt;b&gt;Witcher collections&lt;/b&gt;
+&lt;i&gt;The Last Wish&lt;/i&gt;
+&lt;i&gt;Sword of Destiny&lt;/i&gt;
+
+&lt;i&gt;&lt;br&gt;&lt;/i&gt;
+
+&lt;b&gt;Witcher novels&lt;/b&gt;
+
+&lt;i&gt;Blood of Elves &lt;br&gt;The Time of Contempt&lt;br&gt;Baptism of Fire &lt;/i&gt;
+&lt;i&gt;The Tower of Swallows&lt;/i&gt;
+&lt;i&gt;Lady of the Lake&lt;/i&gt;
+
+&lt;i&gt;Season of Storms&lt;/i&gt;
+&lt;br&gt;&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)
+
+&lt;br&gt;&lt;br&gt;
+Translated from original Polish by David French</description>
+      <format>Hardcover</format>
+      <publication_year type="integer">2018</publication_year>
+      <publication_month type="integer">5</publication_month>
+      <publication_day type="integer">22</publication_day>
+      <num_pages type="integer">432</num_pages>
+      <publisher>Orbit</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2017-12-24T14:10:50+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2017-12-24T14:10:53+00:00</s3_image_at>
+      <reviews_count type="integer">1800</reviews_count>
+      <ratings_sum type="integer">422</ratings_sum>
+      <ratings_count type="integer">103</ratings_count>
+      <text_reviews_count type="integer">11</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2018-04-02T23:02:05+00:00</updated_at>
+      <created_at type="datetime">2017-08-21T22:21:19+00:00</created_at>
+      <author_id_updater_user_id type="integer">-46</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">5136858</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">-46</format_updater_user_id>
+      <image_updater_user_id type="integer">-51</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-46</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-46</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">4391094</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">-46</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">5136858</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-46</publisher_updater_user_id>
+      <title_updater_user_id type="integer">9340136</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">38569</id>
+        <name>Andrzej Sapkowski</name>
+        <updated_at type="datetime">2018-05-25T13:32:51+00:00</updated_at>
+        <created_at type="datetime">2007-02-05T16:10:23+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-13T18:07:51+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2009-04-29T14:21:42+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>PL</country_code>
+        <born_at type="date">1948-06-21</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Andrzej Sapkowski, born June 21, 1948 in Łódź, is a Polish fantasy writer. Sapkowski studied economics, and before turning to writing, he had worked as a senior sales representative for a foreign trade company. His first short story, The Witcher (Wiedźmin), was published in Fantastyka, Poland's leading fantasy literary magazine, in 1986 and was enormously successful both with readers and critics. Sapkowski has created a cycle of tales based on the world of The Witcher, comprising three collections of short stories and five novels. This cycle and his many other works have made him one of the best-known fantasy authors in Poland in the 1990s.
+
+The main character of The Witcher (alternative translation: The Hexer) is Geralt, a mutant assassin who has been trained since childhood to hunt down and destroy monsters. Geralt exists in an ambiguous moral universe, yet manages to maintain his own coherent code of ethics. At the same time cynical and noble, Geralt has been compared to Raymond Chandler's signature character Philip Marlowe. The world in which these adventures take place is heavily influenced by Slavic mythology.
+
+Sapkowski has won five Zajdel Awards, including three for short stories "Mniejsze zło" (Lesser Evil) (1990), "Miecz przeznaczenia" (Sword of Destiny) (1992) and "W leju po bombie" (In a Bomb Crater) (1993), and two for the novels "Krew elfów" (Blood of Elves) (1994) and "Narrenturm" (2002). He also won the Spanish Ignotus Award, best anthology, for The Last Wish in 2003, and for "Muzykanci" (The Musicians), best foreign short story, same year.
+
+In 1997, Sapkowski won the prestigious Polityka's Passport award, which is awarded annually to artists who have strong prospects for international success.
+
+In 2001, a Television Series based on the Witcher cycle was released in Poland and internationally, entitled Wiedźmin (The Hexer). A film by the same title was compiled from excerpts of the television series but both have been critical and box office failures.
+
+Sapkowski's books have been translated into Czech, Russian, Lithuanian, German, Spanish, French, Ukrainian, and Portuguese. An English translation of The Last Wish short story collection was published by Gollancz in 2007.
+
+The Polish game publisher, CD Projekt, created a role-playing PC game based on this universe, called The Witcher, which was released in October 2007. There is also a mobile version of the game which has been created by Breakpoint Games and is being published by Hands-On Mobile in Western Europe,Latin America and Asia Pacific.
+
+The English translation of Sapkowski's novel Blood of Elves won the David Gemmell Legends Award in 2009.</about>
+        <uploader_user_id type="integer">238199</uploader_user_id>
+        <image_copyright>http://molksiazkowyy.blox.pl/resource/2.jpg</image_copyright>
+        <influences/>
+        <url>http://www.sapkowski.pl/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Historical Fiction</genre2>
+        <genre3/>
+        <books_count type="integer">1132</books_count>
+        <reviews_count type="integer">429660</reviews_count>
+        <ratings_sum type="integer">1121635</ratings_sum>
+        <works_count type="integer">100</works_count>
+        <hometown>Łódź</hometown>
+        <rating_dist>5:2645|4:2141|3:1185|2:333|1:64|total:6368</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:07:07+00:00</s3_image_at>
+        <ratings_count type="integer">264132</ratings_count>
+        <text_reviews_count type="integer">10358</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1649</fanships_count>
+        <best_book_id type="integer">1128434</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>sapkowski, andrzej</sort_by_name>
+        <shelf_display_name>Sapkowski, Andrzej</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[finished reading <a only_path="false" href="https://www.goodreads.com/review/show/2311298277">Lady of the Lake (The Witcher, #7)</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2251499808</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Sun, 04 Mar 2018 11:25:18 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2251499808</id>
+  <review_id type="integer">2311298277</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status>currently-reading</old_status>
+  <status>read</status>
+  <updated_at type="datetime">2018-03-04T19:25:13+00:00</updated_at>
+  <review>
+    <id type="integer">2311298277</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">31933977</book_id>
+    <rating type="integer">0</rating>
+    <read_status>read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review/>
+    <recommendation/>
+    <read_at type="datetime">2018-03-04T19:25:18+00:00</read_at>
+    <updated_at type="datetime">2018-03-04T19:25:18+00:00</updated_at>
+    <created_at type="datetime">2018-02-28T06:08:06+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1/>
+    <work_id type="integer">66346</work_id>
+    <read_count type="integer">1</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime">2018-02-28T06:08:07+00:00</started_at>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-04T19:25:18+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">31933977</id>
+      <work_id type="integer">66346</work_id>
+      <isbn>031627383X</isbn>
+      <isbn13>9780316273831</isbn13>
+      <title>Lady of the Lake (The Witcher, #7)</title>
+      <sort_by_title>lady of the lake (the witcher, #7)</sort_by_title>
+      <author_id type="integer">38569</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>&lt;b&gt;The Witcher returns in this action-packed sequel to &lt;i&gt;The Tower of Swallows,&lt;/i&gt; in the &lt;i&gt;New York Times &lt;/i&gt;bestselling series that inspired &lt;i&gt;The Witcher &lt;/i&gt;video games. &lt;/b&gt;&lt;br&gt;
+After walking through the portal in the Tower of Swallows while narrowly escaping death, Ciri finds herself in a completely different world... an Elven world. She is trapped with no way out. Time does not seem to exist and there are no obvious borders or portals to cross back into her home world.&lt;br&gt;&lt;br&gt; But this is Ciri, the child of prophecy, and she will not be defeated. She knows she must escape to finally rejoin the Witcher, Geralt, and his companions - and also to try to conquer her worst nightmare. Leo Bonhart, the man who chased, wounded and tortured Ciri, is still on her trail. And the world is still at war.&lt;br&gt;&lt;b&gt;Witcher novels&lt;/b&gt;
+&lt;i&gt;Blood of Elves &lt;br&gt;The Time of Contempt&lt;br&gt;Baptism of Fire &lt;/i&gt;
+&lt;i&gt;The Tower of Swallows&lt;/i&gt;
+&lt;i&gt;Lady of the Lake&lt;/i&gt;
+&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;b&gt;Witcher collections&lt;/b&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;i&gt;Sword of Destiny&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;
+&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)&lt;br&gt;&lt;br&gt;Translated from original Polish by David French</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2017</publication_year>
+      <publication_month type="integer">3</publication_month>
+      <publication_day type="integer">14</publication_day>
+      <num_pages type="integer">560</num_pages>
+      <publisher>Orbit</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2016-12-12T05:51:48+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2016-12-12T05:51:50+00:00</s3_image_at>
+      <reviews_count type="integer">2690</reviews_count>
+      <ratings_sum type="integer">4485</ratings_sum>
+      <ratings_count type="integer">1083</ratings_count>
+      <text_reviews_count type="integer">95</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2018-01-24T19:15:05+00:00</updated_at>
+      <created_at type="datetime">2016-09-10T07:56:50+00:00</created_at>
+      <author_id_updater_user_id type="integer">-46</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">5136858</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">-46</format_updater_user_id>
+      <image_updater_user_id type="integer">5136858</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-46</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-46</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">12797140</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">-46</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-46</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-46</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4391094</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">38569</id>
+        <name>Andrzej Sapkowski</name>
+        <updated_at type="datetime">2018-05-25T13:32:51+00:00</updated_at>
+        <created_at type="datetime">2007-02-05T16:10:23+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-13T18:07:51+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2009-04-29T14:21:42+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>PL</country_code>
+        <born_at type="date">1948-06-21</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Andrzej Sapkowski, born June 21, 1948 in Łódź, is a Polish fantasy writer. Sapkowski studied economics, and before turning to writing, he had worked as a senior sales representative for a foreign trade company. His first short story, The Witcher (Wiedźmin), was published in Fantastyka, Poland's leading fantasy literary magazine, in 1986 and was enormously successful both with readers and critics. Sapkowski has created a cycle of tales based on the world of The Witcher, comprising three collections of short stories and five novels. This cycle and his many other works have made him one of the best-known fantasy authors in Poland in the 1990s.
+
+The main character of The Witcher (alternative translation: The Hexer) is Geralt, a mutant assassin who has been trained since childhood to hunt down and destroy monsters. Geralt exists in an ambiguous moral universe, yet manages to maintain his own coherent code of ethics. At the same time cynical and noble, Geralt has been compared to Raymond Chandler's signature character Philip Marlowe. The world in which these adventures take place is heavily influenced by Slavic mythology.
+
+Sapkowski has won five Zajdel Awards, including three for short stories "Mniejsze zło" (Lesser Evil) (1990), "Miecz przeznaczenia" (Sword of Destiny) (1992) and "W leju po bombie" (In a Bomb Crater) (1993), and two for the novels "Krew elfów" (Blood of Elves) (1994) and "Narrenturm" (2002). He also won the Spanish Ignotus Award, best anthology, for The Last Wish in 2003, and for "Muzykanci" (The Musicians), best foreign short story, same year.
+
+In 1997, Sapkowski won the prestigious Polityka's Passport award, which is awarded annually to artists who have strong prospects for international success.
+
+In 2001, a Television Series based on the Witcher cycle was released in Poland and internationally, entitled Wiedźmin (The Hexer). A film by the same title was compiled from excerpts of the television series but both have been critical and box office failures.
+
+Sapkowski's books have been translated into Czech, Russian, Lithuanian, German, Spanish, French, Ukrainian, and Portuguese. An English translation of The Last Wish short story collection was published by Gollancz in 2007.
+
+The Polish game publisher, CD Projekt, created a role-playing PC game based on this universe, called The Witcher, which was released in October 2007. There is also a mobile version of the game which has been created by Breakpoint Games and is being published by Hands-On Mobile in Western Europe,Latin America and Asia Pacific.
+
+The English translation of Sapkowski's novel Blood of Elves won the David Gemmell Legends Award in 2009.</about>
+        <uploader_user_id type="integer">238199</uploader_user_id>
+        <image_copyright>http://molksiazkowyy.blox.pl/resource/2.jpg</image_copyright>
+        <influences/>
+        <url>http://www.sapkowski.pl/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Historical Fiction</genre2>
+        <genre3/>
+        <books_count type="integer">1132</books_count>
+        <reviews_count type="integer">429660</reviews_count>
+        <ratings_sum type="integer">1121635</ratings_sum>
+        <works_count type="integer">100</works_count>
+        <hometown>Łódź</hometown>
+        <rating_dist>5:2645|4:2141|3:1185|2:333|1:64|total:6368</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:07:07+00:00</s3_image_at>
+        <ratings_count type="integer">264132</ratings_count>
+        <text_reviews_count type="integer">10358</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1649</fanships_count>
+        <best_book_id type="integer">1128434</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>sapkowski, andrzej</sort_by_name>
+        <shelf_display_name>Sapkowski, Andrzej</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[is currently reading <a only_path="false" href="https://www.goodreads.com/review/show/2311298277">Lady of the Lake (The Witcher, #7)</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2244827063</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Tue, 27 Feb 2018 22:08:07 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2244827063</id>
+  <review_id type="integer">2311298277</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status nil="true"/>
+  <status>currently-reading</status>
+  <updated_at type="datetime">2018-02-28T06:08:07+00:00</updated_at>
+  <review>
+    <id type="integer">2311298277</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">31933977</book_id>
+    <rating type="integer">0</rating>
+    <read_status>read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review/>
+    <recommendation/>
+    <read_at type="datetime">2018-03-04T19:25:18+00:00</read_at>
+    <updated_at type="datetime">2018-03-04T19:25:18+00:00</updated_at>
+    <created_at type="datetime">2018-02-28T06:08:06+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1/>
+    <work_id type="integer">66346</work_id>
+    <read_count type="integer">1</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime">2018-02-28T06:08:07+00:00</started_at>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-03-04T19:25:18+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">31933977</id>
+      <work_id type="integer">66346</work_id>
+      <isbn>031627383X</isbn>
+      <isbn13>9780316273831</isbn13>
+      <title>Lady of the Lake (The Witcher, #7)</title>
+      <sort_by_title>lady of the lake (the witcher, #7)</sort_by_title>
+      <author_id type="integer">38569</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>&lt;b&gt;The Witcher returns in this action-packed sequel to &lt;i&gt;The Tower of Swallows,&lt;/i&gt; in the &lt;i&gt;New York Times &lt;/i&gt;bestselling series that inspired &lt;i&gt;The Witcher &lt;/i&gt;video games. &lt;/b&gt;&lt;br&gt;
+After walking through the portal in the Tower of Swallows while narrowly escaping death, Ciri finds herself in a completely different world... an Elven world. She is trapped with no way out. Time does not seem to exist and there are no obvious borders or portals to cross back into her home world.&lt;br&gt;&lt;br&gt; But this is Ciri, the child of prophecy, and she will not be defeated. She knows she must escape to finally rejoin the Witcher, Geralt, and his companions - and also to try to conquer her worst nightmare. Leo Bonhart, the man who chased, wounded and tortured Ciri, is still on her trail. And the world is still at war.&lt;br&gt;&lt;b&gt;Witcher novels&lt;/b&gt;
+&lt;i&gt;Blood of Elves &lt;br&gt;The Time of Contempt&lt;br&gt;Baptism of Fire &lt;/i&gt;
+&lt;i&gt;The Tower of Swallows&lt;/i&gt;
+&lt;i&gt;Lady of the Lake&lt;/i&gt;
+&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;b&gt;Witcher collections&lt;/b&gt;&lt;i&gt;The Last Wish&lt;/i&gt;&lt;i&gt;Sword of Destiny&lt;/i&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;
+&lt;i&gt;The Malady and Other Stories: An Andrzej Sapkowski Sampler&lt;/i&gt; (e-only)&lt;br&gt;&lt;br&gt;Translated from original Polish by David French</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2017</publication_year>
+      <publication_month type="integer">3</publication_month>
+      <publication_day type="integer">14</publication_day>
+      <num_pages type="integer">560</num_pages>
+      <publisher>Orbit</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2016-12-12T05:51:48+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2016-12-12T05:51:50+00:00</s3_image_at>
+      <reviews_count type="integer">2690</reviews_count>
+      <ratings_sum type="integer">4485</ratings_sum>
+      <ratings_count type="integer">1083</ratings_count>
+      <text_reviews_count type="integer">95</text_reviews_count>
+      <book_authors_count type="integer">0</book_authors_count>
+      <updated_at type="datetime">2018-01-24T19:15:05+00:00</updated_at>
+      <created_at type="datetime">2016-09-10T07:56:50+00:00</created_at>
+      <author_id_updater_user_id type="integer">-46</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer">-9</author_role_updater_user_id>
+      <description_updater_user_id type="integer">5136858</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">-46</format_updater_user_id>
+      <image_updater_user_id type="integer">5136858</image_updater_user_id>
+      <isbn_updater_user_id type="integer">-46</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">-46</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">12797140</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">-46</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">-46</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">-46</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4391094</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">38569</id>
+        <name>Andrzej Sapkowski</name>
+        <updated_at type="datetime">2018-05-25T13:32:51+00:00</updated_at>
+        <created_at type="datetime">2007-02-05T16:10:23+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-13T18:07:51+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2009-04-29T14:21:42+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>PL</country_code>
+        <born_at type="date">1948-06-21</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Andrzej Sapkowski, born June 21, 1948 in Łódź, is a Polish fantasy writer. Sapkowski studied economics, and before turning to writing, he had worked as a senior sales representative for a foreign trade company. His first short story, The Witcher (Wiedźmin), was published in Fantastyka, Poland's leading fantasy literary magazine, in 1986 and was enormously successful both with readers and critics. Sapkowski has created a cycle of tales based on the world of The Witcher, comprising three collections of short stories and five novels. This cycle and his many other works have made him one of the best-known fantasy authors in Poland in the 1990s.
+
+The main character of The Witcher (alternative translation: The Hexer) is Geralt, a mutant assassin who has been trained since childhood to hunt down and destroy monsters. Geralt exists in an ambiguous moral universe, yet manages to maintain his own coherent code of ethics. At the same time cynical and noble, Geralt has been compared to Raymond Chandler's signature character Philip Marlowe. The world in which these adventures take place is heavily influenced by Slavic mythology.
+
+Sapkowski has won five Zajdel Awards, including three for short stories "Mniejsze zło" (Lesser Evil) (1990), "Miecz przeznaczenia" (Sword of Destiny) (1992) and "W leju po bombie" (In a Bomb Crater) (1993), and two for the novels "Krew elfów" (Blood of Elves) (1994) and "Narrenturm" (2002). He also won the Spanish Ignotus Award, best anthology, for The Last Wish in 2003, and for "Muzykanci" (The Musicians), best foreign short story, same year.
+
+In 1997, Sapkowski won the prestigious Polityka's Passport award, which is awarded annually to artists who have strong prospects for international success.
+
+In 2001, a Television Series based on the Witcher cycle was released in Poland and internationally, entitled Wiedźmin (The Hexer). A film by the same title was compiled from excerpts of the television series but both have been critical and box office failures.
+
+Sapkowski's books have been translated into Czech, Russian, Lithuanian, German, Spanish, French, Ukrainian, and Portuguese. An English translation of The Last Wish short story collection was published by Gollancz in 2007.
+
+The Polish game publisher, CD Projekt, created a role-playing PC game based on this universe, called The Witcher, which was released in October 2007. There is also a mobile version of the game which has been created by Breakpoint Games and is being published by Hands-On Mobile in Western Europe,Latin America and Asia Pacific.
+
+The English translation of Sapkowski's novel Blood of Elves won the David Gemmell Legends Award in 2009.</about>
+        <uploader_user_id type="integer">238199</uploader_user_id>
+        <image_copyright>http://molksiazkowyy.blox.pl/resource/2.jpg</image_copyright>
+        <influences/>
+        <url>http://www.sapkowski.pl/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Historical Fiction</genre2>
+        <genre3/>
+        <books_count type="integer">1132</books_count>
+        <reviews_count type="integer">429660</reviews_count>
+        <ratings_sum type="integer">1121635</ratings_sum>
+        <works_count type="integer">100</works_count>
+        <hometown>Łódź</hometown>
+        <rating_dist>5:2645|4:2141|3:1185|2:333|1:64|total:6368</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:07:07+00:00</s3_image_at>
+        <ratings_count type="integer">264132</ratings_count>
+        <text_reviews_count type="integer">10358</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1649</fanships_count>
+        <best_book_id type="integer">1128434</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>sapkowski, andrzej</sort_by_name>
+        <shelf_display_name>Sapkowski, Andrzej</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+      <update type="readstatus">
+      <action_text><![CDATA[finished reading <a only_path="false" href="https://www.goodreads.com/review/show/2310518637">The Tower of the Swallow (The Witcher, #6)</a>]]></action_text>
+      <link>https://www.goodreads.com/read_statuses/2244825829</link>
+      <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+        <actor>
+  <id type="integer">13475528</id>
+  <name>Jorge Teixeira</name>
+  <image_url>https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png</image_url>
+  <link>https://www.goodreads.com/user/show/13475528-jorge-teixeira</link>
+</actor>
+      <updated_at>Tue, 27 Feb 2018 22:07:05 -0800</updated_at>
+        <object>
+          <read_status>
+  <id type="integer">2244825829</id>
+  <review_id type="integer">2310518637</review_id>
+  <user_id type="integer">13475528</user_id>
+  <old_status>currently-reading</old_status>
+  <status>read</status>
+  <updated_at type="datetime">2018-02-28T06:06:34+00:00</updated_at>
+  <review>
+    <id type="integer">2310518637</id>
+    <user_id type="integer">13475528</user_id>
+    <book_id type="integer">18247597</book_id>
+    <rating type="integer">0</rating>
+    <read_status>read</read_status>
+    <sell_flag type="boolean">false</sell_flag>
+    <review/>
+    <recommendation/>
+    <read_at type="datetime">2018-02-28T06:06:33+00:00</read_at>
+    <updated_at type="datetime">2018-02-28T06:07:05+00:00</updated_at>
+    <created_at type="datetime">2018-02-27T18:12:39+00:00</created_at>
+    <comments_count type="integer">0</comments_count>
+    <weight type="integer">0</weight>
+    <ratings_sum type="integer">0</ratings_sum>
+    <ratings_count type="integer">0</ratings_count>
+    <notes/>
+    <spoiler_flag type="boolean">false</spoiler_flag>
+    <recommender_user_id1 type="integer">0</recommender_user_id1>
+    <recommender_user_name1/>
+    <work_id type="integer">66349</work_id>
+    <read_count type="integer">1</read_count>
+    <last_comment_at type="datetime" nil="true"/>
+    <started_at type="datetime">2018-02-27T18:12:40+00:00</started_at>
+    <hidden_flag type="boolean">false</hidden_flag>
+    <language_code type="integer" nil="true"/>
+    <last_revision_at type="datetime">2018-02-28T06:07:05+00:00</last_revision_at>
+    <non_friends_rating_count type="integer">0</non_friends_rating_count>
+    <book>
+      <id type="integer">18247597</id>
+      <work_id type="integer">66349</work_id>
+      <isbn>1473211565</isbn>
+      <isbn13>9781473211568</isbn13>
+      <title>The Tower of the Swallow (The Witcher, #6)</title>
+      <sort_by_title>tower of the swallow (the witcher, #6), the</sort_by_title>
+      <author_id type="integer">38569</author_id>
+      <author_role nil="true"/>
+      <asin nil="true"/>
+      <description>The world has fallen into war. Ciri, the child of prophecy, has vanished. Hunted by friends and foes alike, she has taken on the guise of a petty bandit and lives free for the first time in her life. But the net around her is closing. Geralt, the Witcher, has assembled a group of allies determined to rescue her. Both sides of the war have sent brutal mercenaries to hunt her down. Her crimes have made her famous. 
+
+There is only one place left to run. The tower of the swallow is waiting...</description>
+      <format>Paperback</format>
+      <publication_year type="integer">2016</publication_year>
+      <publication_month type="integer">5</publication_month>
+      <publication_day type="integer">19</publication_day>
+      <num_pages type="integer">448</num_pages>
+      <publisher>Gollancz</publisher>
+      <language_code>eng</language_code>
+      <edition_information nil="true"/>
+      <url nil="true"/>
+      <source_url nil="true"/>
+      <image_uploaded_at type="datetime">2016-03-10T23:23:15+00:00</image_uploaded_at>
+      <s3_image_at type="datetime">2016-03-10T23:23:16+00:00</s3_image_at>
+      <reviews_count type="integer">4660</reviews_count>
+      <ratings_sum type="integer">10266</ratings_sum>
+      <ratings_count type="integer">2424</ratings_count>
+      <text_reviews_count type="integer">145</text_reviews_count>
+      <book_authors_count type="integer">1</book_authors_count>
+      <updated_at type="datetime">2016-07-18T07:48:53+00:00</updated_at>
+      <created_at type="datetime">2013-07-28T04:32:53+00:00</created_at>
+      <author_id_updater_user_id type="integer">22122552</author_id_updater_user_id>
+      <author_role_updater_user_id type="integer" nil="true"/>
+      <description_updater_user_id type="integer">14937475</description_updater_user_id>
+      <edition_information_updater_user_id type="integer" nil="true"/>
+      <format_updater_user_id type="integer">14937475</format_updater_user_id>
+      <image_updater_user_id type="integer">4748498</image_updater_user_id>
+      <isbn_updater_user_id type="integer">14937475</isbn_updater_user_id>
+      <isbn13_updater_user_id type="integer">4748498</isbn13_updater_user_id>
+      <language_updater_user_id type="integer">13007653</language_updater_user_id>
+      <num_pages_updater_user_id type="integer">14937475</num_pages_updater_user_id>
+      <publication_date_updater_user_id type="integer">4748498</publication_date_updater_user_id>
+      <publisher_updater_user_id type="integer">13007653</publisher_updater_user_id>
+      <title_updater_user_id type="integer">4748498</title_updater_user_id>
+      <url_updater_user_id type="integer" nil="true"/>
+      <title_language_code nil="true"/>
+      <publisher_language_code nil="true"/>
+      <description_language_code nil="true"/>
+      <asin_updater_user_id type="integer" nil="true"/>
+      <author>
+        <id type="integer">38569</id>
+        <name>Andrzej Sapkowski</name>
+        <updated_at type="datetime">2018-05-25T13:32:51+00:00</updated_at>
+        <created_at type="datetime">2007-02-05T16:10:23+00:00</created_at>
+        <searched_for_at type="datetime">2007-07-13T18:07:51+00:00</searched_for_at>
+        <image_uploaded_at type="datetime">2009-04-29T14:21:42+00:00</image_uploaded_at>
+        <user_id type="integer" nil="true"/>
+        <gender>M</gender>
+        <country_code>PL</country_code>
+        <born_at type="date">1948-06-21</born_at>
+        <died_at type="datetime" nil="true"/>
+        <about>Andrzej Sapkowski, born June 21, 1948 in Łódź, is a Polish fantasy writer. Sapkowski studied economics, and before turning to writing, he had worked as a senior sales representative for a foreign trade company. His first short story, The Witcher (Wiedźmin), was published in Fantastyka, Poland's leading fantasy literary magazine, in 1986 and was enormously successful both with readers and critics. Sapkowski has created a cycle of tales based on the world of The Witcher, comprising three collections of short stories and five novels. This cycle and his many other works have made him one of the best-known fantasy authors in Poland in the 1990s.
+
+The main character of The Witcher (alternative translation: The Hexer) is Geralt, a mutant assassin who has been trained since childhood to hunt down and destroy monsters. Geralt exists in an ambiguous moral universe, yet manages to maintain his own coherent code of ethics. At the same time cynical and noble, Geralt has been compared to Raymond Chandler's signature character Philip Marlowe. The world in which these adventures take place is heavily influenced by Slavic mythology.
+
+Sapkowski has won five Zajdel Awards, including three for short stories "Mniejsze zło" (Lesser Evil) (1990), "Miecz przeznaczenia" (Sword of Destiny) (1992) and "W leju po bombie" (In a Bomb Crater) (1993), and two for the novels "Krew elfów" (Blood of Elves) (1994) and "Narrenturm" (2002). He also won the Spanish Ignotus Award, best anthology, for The Last Wish in 2003, and for "Muzykanci" (The Musicians), best foreign short story, same year.
+
+In 1997, Sapkowski won the prestigious Polityka's Passport award, which is awarded annually to artists who have strong prospects for international success.
+
+In 2001, a Television Series based on the Witcher cycle was released in Poland and internationally, entitled Wiedźmin (The Hexer). A film by the same title was compiled from excerpts of the television series but both have been critical and box office failures.
+
+Sapkowski's books have been translated into Czech, Russian, Lithuanian, German, Spanish, French, Ukrainian, and Portuguese. An English translation of The Last Wish short story collection was published by Gollancz in 2007.
+
+The Polish game publisher, CD Projekt, created a role-playing PC game based on this universe, called The Witcher, which was released in October 2007. There is also a mobile version of the game which has been created by Breakpoint Games and is being published by Hands-On Mobile in Western Europe,Latin America and Asia Pacific.
+
+The English translation of Sapkowski's novel Blood of Elves won the David Gemmell Legends Award in 2009.</about>
+        <uploader_user_id type="integer">238199</uploader_user_id>
+        <image_copyright>http://molksiazkowyy.blox.pl/resource/2.jpg</image_copyright>
+        <influences/>
+        <url>http://www.sapkowski.pl/</url>
+        <genre1>Fantasy</genre1>
+        <genre2>Historical Fiction</genre2>
+        <genre3/>
+        <books_count type="integer">1132</books_count>
+        <reviews_count type="integer">429660</reviews_count>
+        <ratings_sum type="integer">1121635</ratings_sum>
+        <works_count type="integer">100</works_count>
+        <hometown>Łódź</hometown>
+        <rating_dist>5:2645|4:2141|3:1185|2:333|1:64|total:6368</rating_dist>
+        <s3_image_at type="datetime">2015-05-14T23:07:07+00:00</s3_image_at>
+        <ratings_count type="integer">264132</ratings_count>
+        <text_reviews_count type="integer">10358</text_reviews_count>
+        <author_program_at type="datetime" nil="true"/>
+        <postal_code nil="true"/>
+        <fanships_count type="integer">1649</fanships_count>
+        <best_book_id type="integer">1128434</best_book_id>
+        <name_language_code nil="true"/>
+        <sort_by_name>sapkowski, andrzej</sort_by_name>
+        <shelf_display_name>Sapkowski, Andrzej</shelf_display_name>
+        <gender_custom nil="true"/>
+        <gender_pronoun nil="true"/>
+      </author>
+    </book>
+  </review>
+</read_status>
+
+        </object>
+    </update>
+</updates>
+    <user_statuses>
+        <user_status>
+  <id type="integer">174223944</id>
+  <page type="integer" nil="true"/>
+  <chapter type="integer" nil="true"/>
+  <comments_count type="integer">0</comments_count>
+  <body/>
+  <created_at type="datetime">2018-05-22T06:13:12+00:00</created_at>
+  <updated_at type="datetime">2018-05-22T06:13:12+00:00</updated_at>
+  <last_comment_at type="datetime" nil="true"/>
+  <ratings_count type="integer">0</ratings_count>
+  <percent type="integer">72</percent>
+  <work_id type="integer">4733799</work_id>
+  <note_uri nil="true"/>
+  <note_updated_at type="datetime" nil="true"/>
+  <review_id type="integer">430970174</review_id>
+  <book>
+    <id type="integer">7332</id>
+    <title>The Silmarillion (Middle-Earth Universe)</title>
+    <num_pages type="integer">386</num_pages>
+    <image_url>https://images.gr-assets.com/books/1336502583m/7332.jpg</image_url>
+    <small_image_url>https://images.gr-assets.com/books/1336502583s/7332.jpg</small_image_url>
+<authors><author>    <id>656983</id>
+    <name>J.R.R. Tolkien</name>
+</author><author>    <id>9533</id>
+    <name>Christopher Tolkien</name>
+</author><author>    <id>4938</id>
+    <name>Ted Nasmith</name>
+</author></authors>  </book>
+</user_status>
+    </user_statuses>
+</user>
+
+</GoodreadsResponse>
