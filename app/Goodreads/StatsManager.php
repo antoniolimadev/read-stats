@@ -6,11 +6,6 @@ use \App\Goodreads\Author;
 
 class StatsManager
 {
-    const STORAGE_FOLDER = 'userdata\\';
-    const XML_USER_INFO = '-user-info';
-    const XML_SHELF_READ = '-shelf-read-';
-    const XML_EXTENSION = '.xml';
-
     protected $userId;
     protected $apikey;
     protected $api;
@@ -19,6 +14,8 @@ class StatsManager
         $this->userId = $userId;
         $this->api = resolve('App\Goodreads\ApiRequest');
     }
+
+     public function getUserId() { return $this->userId; }
 
     public function XMLtoArray($xml){
 
@@ -30,10 +27,10 @@ class StatsManager
     public function saveUserInfoXML($userId){
 
         $xmlResponse = $this->api->getUserInfo($userId);
-        $fileName = self::STORAGE_FOLDER .
+        $fileName = config('goodreads.storage.storage_folder') .
                     $userId .
-                    self::XML_USER_INFO .
-                    self::XML_EXTENSION;
+                    config('goodreads.storage.xml_user_info') .
+                    config('goodreads.storage.xml_extension');
         $xmlResponse->saveXML(storage_path($fileName));
     }
 
@@ -44,11 +41,11 @@ class StatsManager
 
         // saves current page to file (starts at 1)
         $xmlResponse = $this->api->getShelfRead($userId, $pageIndex);
-        $fileName = self::STORAGE_FOLDER .
+        $fileName = config('goodreads.storage.storage_folder') .
                     $userId .
-                    self::XML_SHELF_READ .
+                    config('goodreads.storage.xml_shelf_read') .
                     $pageIndex .
-                    self::XML_EXTENSION;
+                    config('goodreads.storage.xml_extension');
         $xmlResponse->saveXML(storage_path($fileName));
 
         // checks if there are more books
@@ -67,19 +64,22 @@ class StatsManager
     }
 
     public function readUserInfoXML($userId){
-
-        $fileName = self::STORAGE_FOLDER . $userId . self::XML_USER_INFO . self::XML_EXTENSION;
+        $fileName = config('goodreads.storage.storage_folder') .
+                    $userId .
+                    config('goodreads.storage.xml_user_info') .
+                    config('goodreads.storage.xml_extension');
         $userDataXML = simplexml_load_file(storage_path($fileName)) or die("Error: Cannot read userInfo file for user {$userId}");
         return $userDataXML;
     }
 
     public function readShelfReadXML($userId, $index = 1, $arrayXML = array()){
-
         $pageIndex = $index;
-
-        $fileName = self::STORAGE_FOLDER . $userId . self::XML_SHELF_READ . $pageIndex . self::XML_EXTENSION;
+        $fileName = config('goodreads.storage.storage_folder') .
+                    $userId .
+                    config('goodreads.storage.xml_shelf_read') .
+                    $pageIndex .
+                    config('goodreads.storage.xml_extension');
         $shelfReadXML = simplexml_load_file(storage_path($fileName)) or die("Error: Cannot read shelfRead file for user {$userId}");
-
         //guarda o xml no array
         array_push($arrayXML, $shelfReadXML);
 
@@ -94,16 +94,25 @@ class StatsManager
 
         return $arrayXML;
     }
+    public function getUserProfileStatus($userId){
+        $userDataXML = $this->readUserInfoXML($userId);
 
-    public function isPrivate($userDataXML){
-        if ($userDataXML->user->private) {
-            return true;
+        if (!$this->isIdValid($userDataXML)){
+            return config('goodreads.status.profile_not_found');
         }
-        return false;
+        if ($this->isPrivate($userDataXML)){
+            return config('goodreads.status.profile_private');
+        }
+        return config('goodreads.status.profile_valid');
     }
-    // if node <error> exists then user id is not valid
+
+    // if node <private> exists then user profile is private
+    public function isPrivate($userDataXML){
+        return isset($userDataXML->user->private);
+    }
+    // if node <user> does not exists then user id is not valid
     public function isIdValid($userDataXML){
-        return !empty($userDataXML->error);
+        return isset($userDataXML->user);
     }
 
     public function getUserAvatarUrl($userDataXML){

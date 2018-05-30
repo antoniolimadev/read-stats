@@ -8,40 +8,60 @@ use Illuminate\Http\Request;
 class StatsController extends Controller
 {
     protected $statsManager;
+    protected $status;
+    protected $serverMessage;
     public function index()
     {
-        $user = 0;
-        return view('main.index', compact('user'));
+        $userDataArray = 0;
+        $this->serverMessage = 0;
+        return view('main.index', compact('userDataArray', 'serverMessage'));
     }
 
     public function stats($goodreads_id)
     {
         $statsManager = new StatsManager($goodreads_id);
+        // check if user exists in db
         $user = User::where('goodreads_id', $goodreads_id)->get()->first();
         if (!$user){
-            // fetch data from curl and save it in storage
+            // fetch user data from curl and save it in storage
             $statsManager->saveUserInfoXML($goodreads_id);
-            $statsManager->saveShelfReadXML($goodreads_id);
             //add user to db
-            $user = User::create([
+            User::create([
                 'goodreads_id' => $goodreads_id,
                 'last_access' => new \DateTime()
             ]);
+            // check profile status
+            $this->status = $statsManager->getUserProfileStatus($goodreads_id);
+            if ($this->status == config('goodreads.status.profile_valid')){
+                // fetch shelf data from curl and save it in storage
+                $statsManager->saveShelfReadXML($goodreads_id);
+            }
         }else{
+            $this->status = $statsManager->getUserProfileStatus($goodreads_id);
             $user->updateLastAccess();
         }
-        // fetch user data from db
-        $userDataXML = $statsManager->readUserInfoXML($goodreads_id);
-        if ($statsManager->isPrivate($userDataXML)){
-            dd('private');
+        $userDataArray = 0; // init
+        // return view according to profile status
+        switch($this->status){
+            case config('goodreads.status.profile_valid'):
+                // fetch user data from storage
+                $userDataXML = $statsManager->readUserInfoXML($goodreads_id);
+                // fetch shelf data from storage
+                $shelfReadXML = $statsManager->readShelfReadXML($goodreads_id);
+                // build data array
+                $userDataArray = $this->getUserDataArray($userDataXML, $shelfReadXML, $statsManager);
+                // return view with data array
+                break;
+            case config('goodreads.status.profile_private'):
+                $this->serverMessage = config('goodreads.strings.profile_private_message');
+                break;
+            case config('goodreads.status.profile_not_found'):
+                $this->serverMessage = config('goodreads.strings.profile_not_found_message');
+                break;
         }
-        if (!$statsManager->isIdValid($userDataXML)){
-            dd('not_valid');
-        }
-        // fetch shelf data from db
-        $shelfReadXML = $statsManager->readShelfReadXML($goodreads_id);
-        $userDataArray = $this->getUserDataArray($userDataXML, $shelfReadXML, $statsManager);
-        return view('main.index', compact('user', 'userDataArray'));
+        // return view with data array
+        return view('main.index',['userDataArray' => $userDataArray,
+                                        'serverMessage' => $this->serverMessage]);
     }
 
     public function generate(){
@@ -51,6 +71,7 @@ class StatsController extends Controller
 
     protected function getUserDataArray($userDataXML, $shelfReadXML, $statsManager){
         // user info
+        $userId = $statsManager->getUserId();
         $userName = $statsManager->getUserName($userDataXML);
         $userAvatarUrl = $statsManager->getUserAvatarUrl($userDataXML);
         $joinDate = $statsManager->getJoinDate($userDataXML);
@@ -81,7 +102,8 @@ class StatsController extends Controller
         for ($i=0; $i < sizeof($booksReadPerYear); $i++) {
             array_push($heightArray, number_format((($booksReadPerYear[$i][1] / $maxBooksRead) * 180), 0));
         }
-        return array('userName' => $userName,
+        return array('userId' => $userId,
+            'userName' => $userName,
             'userAvatarUrl' => $userAvatarUrl,
             'joinDate' => $joinDate,
             'booksRead' => $booksRead,

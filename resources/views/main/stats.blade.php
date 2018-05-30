@@ -106,12 +106,12 @@
             <div>
                 <div class="card-title">Fastest reads</div>
                 @php
-                    $index=1;
+                    $index = 1; // array_key_exists('index' , $viewData) ? $viewData['index'] : 1;
                     $maxTitleSize = 40;
                 @endphp
                 @foreach($userDataArray['fastestBooks'] as $book)
                     <div class="block-container book-entry">
-                        <div class="book-rank"><span class="ranking-badge"> {{ $index }} </span></div>
+                        <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
                         <div class="book-cover">
                             <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                         </div>
@@ -143,7 +143,7 @@
                 @endphp
                 @foreach($userDataArray['slowestBooks'] as $book)
                     <div class="block-container book-entry">
-                        <div class="book-rank"><span class="ranking-badge"> {{ $index }} </span></div>
+                        <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
                         <div class="book-cover">
                             <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                         </div>

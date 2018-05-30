@@ -4,10 +4,10 @@
     <div class="search-box">
         <form method="POST" action="{{ url('/userstats') }}" autocomplete="off" class="form-inline">
             @csrf
-            @if(!$user)
+            @if(!$userDataArray)
                 <input type="text" name="goodreads_id" id="userid" class="w3-input w3-border" placeholder="Enter your Goodreads user ID">
             @else
-                <input type="text" name="goodreads_id" id="userid" class="w3-input w3-border" value="{{ $user->goodreads_id }}">
+                <input type="text" name="goodreads_id" id="userid" class="w3-input w3-border" value="{{ $userDataArray['userId'] }}">
             @endif
             <input type="submit" value="Analyze" class="btn">
         </form>
@@ -20,9 +20,14 @@
             </a>
         </div>
     </div>
-    @if($user)
+    @if($userDataArray)
         <br>
         @include('main.stats')
     @endif
+    @if($serverMessage)
+        <br>
+        {{ $serverMessage }}
+    @endif
+
 
 @endsection
