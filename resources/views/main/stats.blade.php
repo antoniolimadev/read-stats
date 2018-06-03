@@ -105,65 +105,73 @@
         <div class="block card">
             <div>
                 <div class="card-title">Fastest reads</div>
-                @php
-                    $index = 1; // array_key_exists('index' , $viewData) ? $viewData['index'] : 1;
-                    $maxTitleSize = 40;
-                @endphp
-                @foreach($userDataArray['fastestBooks'] as $book)
-                    <div class="block-container book-entry">
-                        <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
-                        <div class="book-cover">
-                            <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
-                        </div>
-                        <div class="book-info">
-                            @if (strlen($book->title) > $maxTitleSize)
-                            <div class="tooltip">
-                                {{--book title shortened--}}
-                                <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
-                                    {{ substr($book->title, 0, $maxTitleSize) }}...
-                                </a>
-                                {{--tooltip with full book title--}}
-                                <span class="tooltiptext">{{ $book->title }}</span>
+                @if($userDataArray['fastestBooks'])
+                    @php
+                        $index = 1; // array_key_exists('index' , $viewData) ? $viewData['index'] : 1;
+                        $maxTitleSize = 40;
+                    @endphp
+                    @foreach($userDataArray['fastestBooks'] as $book)
+                        <div class="block-container book-entry">
+                            <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
+                            <div class="book-cover">
+                                <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                             </div>
-                            @else
-                                <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">{{ $book->title }}</a>
+                            <div class="book-info">
+                                @if (strlen($book->title) > $maxTitleSize)
+                                <div class="tooltip">
+                                    {{--book title shortened--}}
+                                    <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
+                                        {{ substr($book->title, 0, $maxTitleSize) }}...
+                                    </a>
+                                    {{--tooltip with full book title--}}
+                                    <span class="tooltiptext">{{ $book->title }}</span>
+                                </div>
+                                @else
+                                    <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">{{ $book->title }}</a>
+                                @endif
                                 <div class="book-stat">{{ $book->timeToRead }} days </div>
-                            @endif
+                            </div>
                         </div>
-                    </div>
-                @endforeach
+                    @endforeach
+                @else
+                    <div>Why no books?</div>
+                @endif
             </div>
         </div>
         <div class="block card">
             <div>
                 <div class="card-title">Slowest reads</div>
-                @php
-                    $index=1;
-                    $maxTitleSize = 40;
-                @endphp
-                @foreach($userDataArray['slowestBooks'] as $book)
-                    <div class="block-container book-entry">
-                        <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
-                        <div class="book-cover">
-                            <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
-                        </div>
-                        <div class="book-info">
-                            @if (strlen($book->title) > $maxTitleSize)
-                            <div class="tooltip">
-                                {{--book title shortened--}}
-                                <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
-                                    {{ substr($book->title, 0, $maxTitleSize) }}...
-                                </a>
-                                {{--tooltip with full book title--}}
-                                <span class="tooltiptext">{{ $book->title }}</span>
+                @if($userDataArray['slowestBooks'])
+                    @php
+                        $index=1;
+                        $maxTitleSize = 40;
+                    @endphp
+                    @foreach($userDataArray['slowestBooks'] as $book)
+                        <div class="block-container book-entry">
+                            <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
+                            <div class="book-cover">
+                                <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                             </div>
-                            @else
-                                <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">{{ $book->title }}</a>
+                            <div class="book-info">
+                                @if (strlen($book->title) > $maxTitleSize)
+                                <div class="tooltip">
+                                    {{--book title shortened--}}
+                                    <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
+                                        {{ substr($book->title, 0, $maxTitleSize) }}...
+                                    </a>
+                                    {{--tooltip with full book title--}}
+                                    <span class="tooltiptext">{{ $book->title }}</span>
+                                </div>
+                                @else
+                                    <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">{{ $book->title }}</a>
+                                @endif
                                 <div class="book-stat">{{ $book->timeToRead }} days </div>
-                            @endif
+                            </div>
                         </div>
-                    </div>
-                @endforeach
+                    @endforeach
+                @else
+                    <div>Why no books?</div>
+                @endif
             </div>
         </div>
     </div>
