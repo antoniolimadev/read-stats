@@ -116,30 +116,27 @@ class StatsManager
     }
 
     public function getUserAvatarUrl($userDataXML){
-
         return $userDataXML->user->image_url;
     }
 
     public function getUserName($userDataXML){
-
         return $userDataXML->user->name;
     }
 
     public function getNumberBooksRead($userDataXML){
-
         return $userDataXML->user->user_shelves->user_shelf[0]->book_count;
     }
 
     public function getNumberBooksReading($userDataXML){
-
         return $userDataXML->user->user_shelves->user_shelf[1]->book_count;
     }
 
     public function getReviewsArray($arrayXML){
-
         $reviewsArray = array();
-
         for ($i=0; $i < sizeof($arrayXML); $i++) {
+            if ($arrayXML[$i]->reviews['total'] == 0){
+                return config('goodreads.status.profile_no_data');
+            }
             $totalBooks = $arrayXML[$i]->reviews['end'] - $arrayXML[$i]->reviews['start'] + 1;
             for ($j=0; $j < $totalBooks; $j++) {
                 array_push($reviewsArray, $arrayXML[$i]->reviews->review[$j]);
@@ -255,7 +252,11 @@ class StatsManager
     // returns the top $howMany slowest books read
     public function getSlowestBooksRead($readBooksArray, $howMany = 5){
         $topSlowest = array();
-        for ($i=0; $i < $howMany; $i++) {
+        $topSize = $howMany;
+        if ($howMany >= sizeof($readBooksArray)){
+            $topSize = sizeof($readBooksArray);
+        }
+        for ($i=0; $i < $topSize; $i++) {
             array_push($topSlowest, $readBooksArray[sizeof($readBooksArray) - 1 - $i]);
         }
         return $topSlowest;

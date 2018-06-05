@@ -13,7 +13,7 @@ class StatsController extends Controller
     public function index()
     {
         $userDataArray = 0;
-        $this->serverMessage = 0;
+        $serverMessage = 0;
         return view('main.index', compact('userDataArray', 'serverMessage'));
     }
 
@@ -44,13 +44,17 @@ class StatsController extends Controller
         // return view according to profile status
         switch($this->status){
             case config('goodreads.status.profile_valid'):
-                // fetch user data from storage
-                $userDataXML = $statsManager->readUserInfoXML($goodreads_id);
                 // fetch shelf data from storage
                 $shelfReadXML = $statsManager->readShelfReadXML($goodreads_id);
-                // build data array
-                $userDataArray = $this->getUserDataArray($userDataXML, $shelfReadXML, $statsManager);
-                // return view with data array
+                // check if books read > 0
+                if ($statsManager->getReviewsArray($shelfReadXML) == config('goodreads.status.profile_no_data')){
+                    $this->serverMessage = config('goodreads.strings.profile_no_books_read');
+                } else {
+                    // fetch user data from storage
+                    $userDataXML = $statsManager->readUserInfoXML($goodreads_id);
+                    // build data array
+                    $userDataArray = $this->getUserDataArray($userDataXML, $shelfReadXML, $statsManager);
+                }
                 break;
             case config('goodreads.status.profile_private'):
                 $this->serverMessage = config('goodreads.strings.profile_private_message');
@@ -80,13 +84,13 @@ class StatsController extends Controller
 
         // read shelf
         $arrayXML = $statsManager->getReviewsArray($shelfReadXML);		// array with all xml files
-        $readBooksArray = $statsManager->getAllBooksRead($arrayXML);	//array of Books sorted by timeToRead32
+        $readBooksArray = $statsManager->getAllBooksRead($arrayXML);	//array of Books sorted by timeToRead
         $averageUserRating = $statsManager->getAverageRating($readBooksArray);
         $averagePages = $statsManager->getAveragePages($readBooksArray);
         $totalBooksRead = sizeof($readBooksArray);
         $meanTime = $statsManager->getMeanTimeToRead($readBooksArray);
-        $fastestBooks = $statsManager->getFastestBooksRead($readBooksArray, 5);
-        $slowestBooks = $statsManager->getSlowestBooksRead($readBooksArray, 5);
+        $fastestBooks = $statsManager->getFastestBooksRead($readBooksArray);
+        $slowestBooks = $statsManager->getSlowestBooksRead($readBooksArray);
         $highestRatedBook = $statsManager->getHighestRated($readBooksArray);
         $lowestRatedBook = $statsManager->getLowestRated($readBooksArray);
         $authorsFrequency = $statsManager->getMostReadAuthors($readBooksArray, 5);
