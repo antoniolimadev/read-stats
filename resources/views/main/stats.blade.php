@@ -24,10 +24,21 @@
                                 <img src="{{ $userDataArray['highestRatedBook']->coverURL }}"> </a>
                         </div>
                         <div class="book-info">
-                            <a class="book-title" href="{{ $userDataArray['highestRatedBook']->websiteURL }}" target="_blank">
-                                {{ $userDataArray['highestRatedBook']->title }}
-                            </a>
-                            <div class="book-stat">({{ $userDataArray['highestRatedBook']->averageRating }})</div>
+                            @if (strlen($userDataArray['highestRatedBook']->title) > $userDataArray['maxStringSize'])
+                                <div class="tooltip">
+                                    {{--book title shortened--}}
+                                    <a class="book-title" href="{{ $userDataArray['highestRatedBook']->websiteURL }}" target="_blank">
+                                        {{ substr($userDataArray['highestRatedBook']->title, 0, $userDataArray['maxStringSize']) }}...
+                                    </a>
+                                    {{--tooltip with full book title--}}
+                                    <span class="tooltiptext">{{ $userDataArray['highestRatedBook']->title }}</span>
+                                </div>
+                            @else
+                                <a class="book-title" href="{{ $userDataArray['highestRatedBook']->websiteURL }}" target="_blank">
+                                    {{ $userDataArray['highestRatedBook']->title }}
+                                </a>
+                            @endif
+                            <div class="book-stat">{{ $userDataArray['highestRatedBook']->averageRating }} stars</div>
                         </div>
                     </div>
                     <div class="card-title">Lowest rated</div>
@@ -37,10 +48,21 @@
                                 <img src="{{ $userDataArray['lowestRatedBook']->coverURL }}"> </a>
                         </div>
                         <div class="book-info">
-                            <a class="book-title" href="{{ $userDataArray['lowestRatedBook']->websiteURL }}" target="_blank">
-                                {{ $userDataArray['lowestRatedBook']->title }}
-                            </a>
-                            <div class="book-stat">({{ $userDataArray['lowestRatedBook']->averageRating }})</div>
+                            @if (strlen($userDataArray['lowestRatedBook']->title) > $userDataArray['maxStringSize'])
+                                <div class="tooltip">
+                                    {{--book title shortened--}}
+                                    <a class="book-title" href="{{ $userDataArray['lowestRatedBook']->websiteURL }}" target="_blank">
+                                        {{ substr($userDataArray['lowestRatedBook']->title, 0, $userDataArray['maxStringSize']) }}...
+                                    </a>
+                                    {{--tooltip with full book title--}}
+                                    <span class="tooltiptext">{{ $userDataArray['lowestRatedBook']->title }}</span>
+                                </div>
+                            @else
+                                <a class="book-title" href="{{ $userDataArray['lowestRatedBook']->websiteURL }}" target="_blank">
+                                    {{ $userDataArray['lowestRatedBook']->title }}
+                                </a>
+                            @endif
+                            <div class="book-stat">{{ $userDataArray['lowestRatedBook']->averageRating }} stars</div>
                         </div>
                     </div>
                 </div>
@@ -106,10 +128,7 @@
             <div>
                 <div class="card-title">Fastest reads</div>
                 @if($userDataArray['fastestBooks'])
-                    @php
-                        $index = 1; // array_key_exists('index' , $viewData) ? $viewData['index'] : 1;
-                        $maxTitleSize = 40;
-                    @endphp
+                    @php $index = 1; // array_key_exists('index' , $viewData) ? $viewData['index'] : 1; @endphp
                     @foreach($userDataArray['fastestBooks'] as $book)
                         <div class="block-container book-entry">
                             <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
@@ -117,11 +136,11 @@
                                 <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                             </div>
                             <div class="book-info">
-                                @if (strlen($book->title) > $maxTitleSize)
+                                @if (strlen($book->title) > $userDataArray['maxStringSize'])
                                 <div class="tooltip">
                                     {{--book title shortened--}}
                                     <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
-                                        {{ substr($book->title, 0, $maxTitleSize) }}...
+                                        {{ substr($book->title, 0, $userDataArray['maxStringSize']) }}...
                                     </a>
                                     {{--tooltip with full book title--}}
                                     <span class="tooltiptext">{{ $book->title }}</span>
@@ -142,10 +161,7 @@
             <div>
                 <div class="card-title">Slowest reads</div>
                 @if($userDataArray['slowestBooks'])
-                    @php
-                        $index=1;
-                        $maxTitleSize = 40;
-                    @endphp
+                    @php $index=1; @endphp
                     @foreach($userDataArray['slowestBooks'] as $book)
                         <div class="block-container book-entry">
                             <div class="book-rank"><span class="ranking-badge"> {{ $index++ }} </span></div>
@@ -153,11 +169,11 @@
                                 <a href={{ $book->websiteURL }} target="_blank"> <img src="{{ $book->coverURL }}"> </a>
                             </div>
                             <div class="book-info">
-                                @if (strlen($book->title) > $maxTitleSize)
+                                @if (strlen($book->title) > $userDataArray['maxStringSize'])
                                 <div class="tooltip">
                                     {{--book title shortened--}}
                                     <a class="book-title" href="{{ $book->websiteURL }}" target="_blank">
-                                        {{ substr($book->title, 0, $maxTitleSize) }}...
+                                        {{ substr($book->title, 0, $userDataArray['maxStringSize']) }}...
                                     </a>
                                     {{--tooltip with full book title--}}
                                     <span class="tooltiptext">{{ $book->title }}</span>

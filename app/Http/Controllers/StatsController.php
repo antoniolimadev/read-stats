@@ -106,24 +106,11 @@ class StatsController extends Controller
         for ($i=0; $i < sizeof($booksReadPerYear); $i++) {
             array_push($heightArray, number_format((($booksReadPerYear[$i][1] / $maxBooksRead) * 180), 0));
         }
-        return array('userId' => $userId,
-            'userName' => $userName,
-            'userAvatarUrl' => $userAvatarUrl,
-            'joinDate' => $joinDate,
-            'booksRead' => $booksRead,
-            'curr_reading' => $curr_reading,
-            'averageUserRating' => $averageUserRating,
-            'averagePages' => $averagePages,
-            'totalBooksRead' => $totalBooksRead,
-            'meanTime' => $meanTime,
-            'fastestBooks' => $fastestBooks,
-            'slowestBooks' => $slowestBooks,
-            'highestRatedBook' => $highestRatedBook,
-            'lowestRatedBook' => $lowestRatedBook,
-            'authorsFrequency' => $authorsFrequency,
-            'booksReadPerYear' => $booksReadPerYear,
-            'maxBooksRead' => $maxBooksRead,
-            'graphWidth' => $graphWidth,
-            'heightArray' => $heightArray);
+        $maxStringSize = 40;
+
+        return compact('userId','userName', 'userAvatarUrl', 'joinDate', 'booksRead', 'curr_reading',
+                        'averageUserRating', 'averagePages', 'totalBooksRead', 'meanTime', 'fastestBooks', 'slowestBooks',
+                        'highestRatedBook', 'lowestRatedBook', 'authorsFrequency', 'booksReadPerYear', 'maxBooksRead',
+                        'graphWidth', 'heightArray', 'maxStringSize');
     }
 }
