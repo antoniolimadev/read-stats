@@ -150,19 +150,14 @@ class StatsManager
 
     // creates and returns an array of Book objects, sorted by timeToRead
     public function getAllBooksRead($shelfBooks){
-
         $readBooksArray = array();
-
         for ($i=0; $i < sizeof($shelfBooks); $i++) {
-
             $dateStart = 0;
             $dateFinish = 0;
-
             //Mon Oct 30 07:12:43 -0700 2017
             // original format: 'D M j H:i:s O Y'
             // goal format: 'M j Y'
             $format = 'D M j H:i:s O Y';
-
             if ($shelfBooks[$i]->read_at->__toString()) {
                 $dateFinish = \DateTime::createFromFormat("D M j H:i:s O Y", $shelfBooks[$i]->read_at);
                 $dateFinish = $dateFinish->format('j M Y');
@@ -173,7 +168,6 @@ class StatsManager
                 $dateFinish = 0;
                 $datetime2 = 0;
             }
-
             if ($shelfBooks[$i]->started_at->__toString()){
                 $dateStart = \DateTime::createFromFormat("D M j H:i:s O Y", $shelfBooks[$i]->started_at);
                 $dateStart = $dateStart->format('j M Y');
@@ -183,7 +177,6 @@ class StatsManager
                 $dateStart = 0;
                 $datetime1 = 0;
             }
-
             if ($datetime1 == 0 || $datetime2 == 0) {
                 $days = 0;
             }
@@ -191,23 +184,29 @@ class StatsManager
                 $secs = $datetime2 - $datetime1;// == <seconds between the two times>
                 $days = $secs / 86400;
             }
-
             $yearRead = 0;
-
             if ($shelfBooks[$i]->started_at->__toString()){
-
-                if($dateFinish){
+                if($dateFinish) {
                     // extract year from date
                     $parts = explode(' ', $dateFinish);
                     $yearRead = $parts[2];
-                    // sometimes a 'read' book has 'started_at' defined but not 'read_at'. even though the book is marked as 'read'.
-                    // don't know why so I just set 'yearRead' with the year from 'started_at'
-                } else {
+                }
+                // sometimes a 'read' book has 'started_at' defined but not 'read_at', even though the book is marked as 'read'.
+                // don't know why so I just set 'yearRead' with the year from 'started_at'
+                else {
                     $parts = explode(' ', $dateStart);
                     $yearRead = $parts[2];
                 }
             }
-
+            //TODO: only add books with dateAdded older than account creation date
+            // if 'read_at' not defined
+//            if (!$shelfBooks[$i]->read_at->__toString()){
+//                $dateAdded = \DateTime::createFromFormat("D M j H:i:s O Y", $shelfBooks[$i]->date_added);
+//                $dateAdded = $dateAdded->format('j M Y');
+//                $pieces = explode(' ', $dateAdded);
+//                $last_piece = array_pop($pieces);
+//                $yearRead = $last_piece;
+//            }
             $newBook = new Book($shelfBooks[$i]->book->title_without_series,
                 $shelfBooks[$i]->book->authors->author->name,
                 $shelfBooks[$i]->book->publication_year,
@@ -223,7 +222,6 @@ class StatsManager
                 $shelfBooks[$i]->book->small_image_url,
                 $shelfBooks[$i]->book->authors->author->link,
                 $shelfBooks[$i]->book->authors->author->small_image_url);
-
             array_push($readBooksArray, $newBook);
         }
 
@@ -239,14 +237,14 @@ class StatsManager
     }
 
     // returns the top $howMany fastest books read
-    public function getFastestBooksRead($readBooksArray, $howMany = 1){
-
+    public function getFastestBooksRead($readBooksArray, $howMany = 5){
         $topFastest = array();
-
         for ($i=0; $i <sizeof($readBooksArray); $i++) {
-
             if ($readBooksArray[$i]->started_at != 0) {
                 for ($j=$i; $j<$i+$howMany; $j++) {
+                    if ($j >= sizeof($readBooksArray)) {
+                        return $topFastest;
+                    }
                     array_push($topFastest, $readBooksArray[$j]);
                 }
                 return $topFastest;
@@ -255,12 +253,9 @@ class StatsManager
     }
 
     // returns the top $howMany slowest books read
-    public function getSlowestBooksRead($readBooksArray, $howMany = 1){
-
+    public function getSlowestBooksRead($readBooksArray, $howMany = 5){
         $topSlowest = array();
-
         for ($i=0; $i < $howMany; $i++) {
-
             array_push($topSlowest, $readBooksArray[sizeof($readBooksArray) - 1 - $i]);
         }
         return $topSlowest;
@@ -268,30 +263,24 @@ class StatsManager
 
     // [currentYear][currentYearCount]
     public function getBooksReadByYear($readBooksArray){
-
         // sort by year read
         usort($readBooksArray, function($a, $b) {
-
             if($a->yearRead > $b->yearRead){
                 return true;
             }else{
                 return false;
             }
         });
-
         $byYear = array();
         $currentYear = 0;
         $currentYearCount = 0;
 
         for ($i=0; $i < sizeof($readBooksArray); $i++) {
-
-            if($readBooksArray[$i]->started_at != 0){
+            //if($readBooksArray[$i]->started_at != 0){
                 if ($readBooksArray[$i]->yearRead > $currentYear) {
-
                     // save year and how many books read that year
                     $nextYear = array($currentYear, $currentYearCount);
                     array_push($byYear, $nextYear);
-
                     // update current year
                     $currentYear = $readBooksArray[$i]->yearRead;
                     // reset year count
@@ -299,7 +288,7 @@ class StatsManager
                 } else{
                     $currentYearCount++;
                 }
-            }
+            //}
         }
         $nextYear = array($currentYear, $currentYearCount);
         array_push($byYear, $nextYear);
