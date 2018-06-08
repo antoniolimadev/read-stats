@@ -2,7 +2,6 @@
 
 namespace App\Goodreads;
 use \App\Goodreads\Book;
-use \App\Goodreads\Author;
 
 class StatsManager
 {
@@ -25,22 +24,22 @@ class StatsManager
     }
 
     public function saveUserInfoXML($userId){
-
         $xmlResponse = $this->api->getUserInfo($userId);
+        if (!$xmlResponse){ return false; }
         $fileName = config('goodreads.storage.storage_folder') .
                     $userId .
                     config('goodreads.storage.xml_user_info') .
                     config('goodreads.storage.xml_extension');
         $xmlResponse->saveXML(storage_path($fileName));
+        return true;
     }
 
     // read shelves with more than 200 books
     public function saveShelfReadXML($userId, $index = 1){
-
         $pageIndex = $index;
-
         // saves current page to file (starts at 1)
         $xmlResponse = $this->api->getShelfRead($userId, $pageIndex);
+        if (!$xmlResponse){ return false; }
         $fileName = config('goodreads.storage.storage_folder') .
                     $userId .
                     config('goodreads.storage.xml_shelf_read') .
@@ -61,6 +60,7 @@ class StatsManager
             $pageIndex++;
             $this->saveShelfReadXML($userId, $pageIndex);
         }
+        return true;
     }
 
     public function readUserInfoXML($userId){

@@ -82,8 +82,8 @@
     <!-- GRAPH -->
     <div class="block-container">
         <div class="card-graph">
-            <table class="q-graph" style="width:{{ $userDataArray['graphWidth'] }}">
-                <caption class="card-title" style="width:{{ $userDataArray['graphWidth'] }}">Books read per year</caption>
+            <table class="q-graph" style="width:{{ $userDataArray['graphWidth'] }}px;">
+                <caption class="card-title" style="width:{{ $userDataArray['graphWidth'] }}px;">Books read per year</caption>
                 <tbody>
                 @php
                     $left = 0; /* distance between bars */

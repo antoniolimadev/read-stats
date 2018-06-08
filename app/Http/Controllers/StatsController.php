@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 use App\Goodreads\StatsManager;
 use App\User;
-use Illuminate\Http\Request;
 
 class StatsController extends Controller
 {
@@ -20,29 +19,37 @@ class StatsController extends Controller
     public function stats($goodreads_id)
     {
         $statsManager = new StatsManager($goodreads_id);
+        $userDataArray = 0; // init
         // check if user exists in db
         $user = User::where('goodreads_id', $goodreads_id)->get()->first();
         if (!$user){
-            // fetch user data from curl and save it in storage
-            $statsManager->saveUserInfoXML($goodreads_id);
-            //add user to db
-            User::create([
-                'goodreads_id' => $goodreads_id,
-                'last_access' => new \DateTime()
-            ]);
-            // check profile status
-            $this->status = $statsManager->getUserProfileStatus($goodreads_id);
-            if ($this->status == config('goodreads.status.profile_valid')){
-                // fetch shelf data from curl and save it in storage
-                $statsManager->saveShelfReadXML($goodreads_id);
+            // make api request
+            if (!$statsManager->saveUserInfoXML($goodreads_id)){
+                // if request went wrong
+                $this->status = config('goodreads.status.request_failed');
+            } else { // if request was successful
+                //add user to db
+                User::create([
+                    'goodreads_id' => $goodreads_id,
+                    'last_access' => new \DateTime()
+                ]);
+                // check profile status
+                $this->status = $statsManager->getUserProfileStatus($goodreads_id);
+                if ($this->status == config('goodreads.status.profile_valid')) {
+                    // fetch shelf data from curl and save it in storage
+                    $statsManager->saveShelfReadXML($goodreads_id);
+                }
             }
+        // if user already exists in db
         }else{
             $this->status = $statsManager->getUserProfileStatus($goodreads_id);
             $user->updateLastAccess();
         }
-        $userDataArray = 0; // init
-        // return view according to profile status
+        // arrange data according to profile status
         switch($this->status){
+            case config('goodreads.status.request_failed'):
+                $this->serverMessage = config('goodreads.strings.request_failed');
+                break;
             case config('goodreads.status.profile_valid'):
                 // fetch shelf data from storage
                 $shelfReadXML = $statsManager->readShelfReadXML($goodreads_id);
