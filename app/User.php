@@ -33,4 +33,13 @@ class User extends Authenticatable
         $this->last_access = Carbon::now();
         $this->save();
     }
+
+    public function isUserDataOutdated(){
+        $lastAccess = $this->last_access; // last access by user
+        $hoursSinceLastAccess = Carbon::now()->diffInHours($lastAccess);
+        if ($hoursSinceLastAccess > config('goodreads.refresh_data_rate')){
+            return true;
+        }
+        return false;
+    }
 }

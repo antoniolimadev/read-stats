@@ -42,8 +42,22 @@ class StatsController extends Controller
             }
         // if user already exists in db
         }else{
+            // if data is old, make new api request
+            if ($user->isUserDataOutdated()){
+                if (!$statsManager->saveUserInfoXML($goodreads_id)){
+                    // if request went wrong
+                    $this->status = config('goodreads.status.request_failed');
+                } else { // if request was successful
+                    // check profile status
+                    $this->status = $statsManager->getUserProfileStatus($goodreads_id);
+                    if ($this->status == config('goodreads.status.profile_valid')) {
+                        // fetch shelf data from curl and save it in storage
+                        $statsManager->saveShelfReadXML($goodreads_id);
+                        $user->updateLastAccess();
+                    }
+                }
+            }
             $this->status = $statsManager->getUserProfileStatus($goodreads_id);
-            $user->updateLastAccess();
         }
         // arrange data according to profile status
         switch($this->status){
