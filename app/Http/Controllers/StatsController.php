@@ -18,6 +18,9 @@ class StatsController extends Controller
 
     public function stats($goodreads_id)
     {
+        $this->validate(request(), [
+            'goodreads_id' => 'required|numeric'
+        ]);
         $statsManager = new StatsManager($goodreads_id);
         $userDataArray = 0; // init
         // check if user exists in db
@@ -90,6 +93,9 @@ class StatsController extends Controller
     }
 
     public function generate(){
+        $this->validate(request(), [
+            'goodreads_id' => 'required|numeric'
+        ]);
         $userid = request('goodreads_id');
         return redirect('/userstats/' . $userid);
     }

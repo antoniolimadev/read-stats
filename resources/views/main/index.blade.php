@@ -20,14 +20,16 @@
             </a>
         </div>
     </div>
+    <br>
     @if($userDataArray)
-        <br>
         @include('main.stats')
     @endif
     @if($serverMessage)
-        <br>
         {{ $serverMessage }}
     @endif
-
-
+    @if (count($errors))
+            @foreach( $errors->all() as $error)
+                {{ $error }} <br>
+            @endforeach
+    @endif
 @endsection
