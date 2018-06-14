@@ -49,6 +49,9 @@ class ApiRequest
     public function canRequestBeMade(){
         sleep($this->waitTime);
         $lastRequestTime = UserRequest::latest()->first()->created_at; // last request to be made
+        if (!$lastRequestTime){
+            return true;
+        }
         $seconds = Carbon::now()->diffInSeconds($lastRequestTime); // difference in seconds between last request and now
         if($seconds > $this->waitTime){
             return true;
