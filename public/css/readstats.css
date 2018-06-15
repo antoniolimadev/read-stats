@@ -86,6 +86,33 @@ h1 {
 	background-color: #333;
 }
 
+
+
+/* The alert message box */
+.alert {
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.16),
+    0 2px 4px 0 rgba(0,0,0,0.12);
+    padding: 9px;
+    background-color: #fff7c9;
+    color: #333;
+    font-weight: bold;
+    border-radius: 3px;
+    width: 500px;
+    display: inline-block;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: #333;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
 #userid {
 	width: 300px;
 }
@@ -129,6 +156,7 @@ img {max-width: 100%;}
 	color: #fff;
 	background-color: #382110;
 	border-color: #382110;
+    cursor: pointer;
 }
 
 .btn:hover {

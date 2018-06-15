@@ -21,15 +21,25 @@
         </div>
     </div>
     <br>
-    @if($userDataArray)
-        @include('main.stats')
-    @endif
     @if($serverMessage)
-        {{ $serverMessage }}
+        <div class="alert">
+            <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+            {{ $serverMessage }}
+        </div>
     @endif
     @if (count($errors))
         @foreach( $errors->all() as $error)
-            {{ $error }} <br>
+            <p>
+                <div class="alert">
+                    <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+                    {{ $error }}
+                </div>
+            </p>
         @endforeach
     @endif
+    <br>
+    @if($userDataArray)
+        @include('main.stats')
+    @endif
+
 @endsection
